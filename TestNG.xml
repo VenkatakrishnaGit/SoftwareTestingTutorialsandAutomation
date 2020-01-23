@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="SoftwareTestingTutorialsandAutomation">
+
+<listeners>
+<listener class-name="com.STTA.utilities.Reporting"/>
+</listeners>
+
+	
+	<test name=" Ecommerce Application Test">
+	<parameter name="browser" value="chrome" />
+		
+		<classes>
+		
+		 
+		              <class name="com.STTA.testCases.TC_DragAndDropAnElement_001"/>
+			       <class name="com.STTA.testCases.TC_DataproviderDDT_002"/>
+			         <class name="com.STTA.testCases.TC_IEBrowserSampleTest_003"/>
+			         <class name="com.STTA.testCases.TC_HandleCheckbox_004"/>
+			     <class name="com.STTA.testCases.TC_NavigationCommands_005"/>
+			   <!--  <class name="com.STTA.testCases.TC_CheckBoxRadioButtonOperations_006"/> -->
+			  <class name="com.STTA.testCases.TC_DiifBetweenSubmitAndClick_007"/>
+	
+			  <class name="com.STTA.testCases.TC_CaptureScreenShot_008"/> 
+			
+			 <class name="com.STTA.testCases.TC_GeneratingMouseHoverEventOnMainMenuToClickOnSubMenu_009"/>
+			<class name ="com.STTA.testCases.TC_HandlingMultipleBrowserWindows_010"/>
+			  
+			 
+ 
+			   
+			    	
+		</classes>
+
+	</test>
+
+</suite>

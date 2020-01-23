@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [SoftwareTestingTutorialsandAutomation]">
+  <listeners>
+    <listener class-name="com.STTA.utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name=" Ecommerce Application Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.STTA.testCases.TC_CaptureScreenShot_008">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="testCaptureScreenshot"/>
+        </methods>
+      </class> <!-- com.STTA.testCases.TC_CaptureScreenShot_008 -->
+    </classes>
+  </test> <!--  Ecommerce Application Test(failed) -->
+</suite> <!-- Failed suite [SoftwareTestingTutorialsandAutomation] -->
