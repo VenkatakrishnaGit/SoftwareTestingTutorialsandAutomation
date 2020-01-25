@@ -7492,3 +7492,1016 @@
 2020-01-23 02:19:14,844 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
 2020-01-23 02:19:14,845 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
 2020-01-23 02:19:14,846 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2020-01-25 19:04:29,837 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:21) - Application URL is Launched
+2020-01-25 19:04:29,848 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:26) - The title of the page is stored
+2020-01-25 19:04:29,855 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:31) - The title length is stored
+2020-01-25 19:04:29,861 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:37) - we got Current page URL
+2020-01-25 19:04:29,871 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:43) - Stored the Domain name of the current url
+2020-01-25 19:04:29,899 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:63) - Located Element which we want to drag
+2020-01-25 19:04:29,924 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:68) - Stored text of dragged element
+2020-01-25 19:04:29,944 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:72) - Located Element where we want to drop
+2020-01-25 19:04:30,121 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:81) - Required Action completed Successfully
+2020-01-25 19:04:30,133 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:106) - dragAndDrop Test Passed
+2020-01-25 19:04:43,555 +0530 [main] INFO  (TC_DataproviderDDT_002.java:16) - Application URL is launched
+2020-01-25 19:04:43,572 +0530 [main] INFO  (TC_DataproviderDDT_002.java:20) - we got Current page URL
+2020-01-25 19:04:43,693 +0530 [main] INFO  (TC_DataproviderDDT_002.java:23) - User id feild is cleared
+2020-01-25 19:04:43,748 +0530 [main] INFO  (TC_DataproviderDDT_002.java:25) - Password feild is cleared
+2020-01-25 19:04:43,851 +0530 [main] INFO  (TC_DataproviderDDT_002.java:27) - Username is entered
+2020-01-25 19:04:43,920 +0530 [main] INFO  (TC_DataproviderDDT_002.java:29) - Password is entered
+2020-01-25 19:04:44,001 +0530 [main] INFO  (TC_DataproviderDDT_002.java:31) - Clicked on login button
+2020-01-25 19:04:44,009 +0530 [main] INFO  (TC_DataproviderDDT_002.java:33) - Alert text is captured
+2020-01-25 19:04:44,027 +0530 [main] INFO  (TC_DataproviderDDT_002.java:35) - Alert is handled
+2020-01-25 19:04:45,781 +0530 [main] INFO  (TC_DataproviderDDT_002.java:41) - LogIn_Test Test Passed
+2020-01-25 19:04:47,448 +0530 [main] INFO  (TC_DataproviderDDT_002.java:16) - Application URL is launched
+2020-01-25 19:04:47,455 +0530 [main] INFO  (TC_DataproviderDDT_002.java:20) - we got Current page URL
+2020-01-25 19:04:47,510 +0530 [main] INFO  (TC_DataproviderDDT_002.java:23) - User id feild is cleared
+2020-01-25 19:04:47,557 +0530 [main] INFO  (TC_DataproviderDDT_002.java:25) - Password feild is cleared
+2020-01-25 19:04:47,656 +0530 [main] INFO  (TC_DataproviderDDT_002.java:27) - Username is entered
+2020-01-25 19:04:47,739 +0530 [main] INFO  (TC_DataproviderDDT_002.java:29) - Password is entered
+2020-01-25 19:04:47,824 +0530 [main] INFO  (TC_DataproviderDDT_002.java:31) - Clicked on login button
+2020-01-25 19:04:47,831 +0530 [main] INFO  (TC_DataproviderDDT_002.java:33) - Alert text is captured
+2020-01-25 19:04:47,851 +0530 [main] INFO  (TC_DataproviderDDT_002.java:35) - Alert is handled
+2020-01-25 19:04:50,206 +0530 [main] INFO  (TC_DataproviderDDT_002.java:41) - LogIn_Test Test Passed
+2020-01-25 19:04:52,882 +0530 [main] INFO  (TC_DataproviderDDT_002.java:16) - Application URL is launched
+2020-01-25 19:04:52,896 +0530 [main] INFO  (TC_DataproviderDDT_002.java:20) - we got Current page URL
+2020-01-25 19:04:52,969 +0530 [main] INFO  (TC_DataproviderDDT_002.java:23) - User id feild is cleared
+2020-01-25 19:04:53,016 +0530 [main] INFO  (TC_DataproviderDDT_002.java:25) - Password feild is cleared
+2020-01-25 19:04:53,107 +0530 [main] INFO  (TC_DataproviderDDT_002.java:27) - Username is entered
+2020-01-25 19:04:53,221 +0530 [main] INFO  (TC_DataproviderDDT_002.java:29) - Password is entered
+2020-01-25 19:04:53,284 +0530 [main] INFO  (TC_DataproviderDDT_002.java:31) - Clicked on login button
+2020-01-25 19:04:53,292 +0530 [main] INFO  (TC_DataproviderDDT_002.java:33) - Alert text is captured
+2020-01-25 19:04:53,301 +0530 [main] INFO  (TC_DataproviderDDT_002.java:35) - Alert is handled
+2020-01-25 19:04:55,446 +0530 [main] INFO  (TC_DataproviderDDT_002.java:41) - LogIn_Test Test Passed
+2020-01-25 19:04:57,713 +0530 [main] INFO  (TC_DataproviderDDT_002.java:16) - Application URL is launched
+2020-01-25 19:04:57,722 +0530 [main] INFO  (TC_DataproviderDDT_002.java:20) - we got Current page URL
+2020-01-25 19:04:57,783 +0530 [main] INFO  (TC_DataproviderDDT_002.java:23) - User id feild is cleared
+2020-01-25 19:04:57,838 +0530 [main] INFO  (TC_DataproviderDDT_002.java:25) - Password feild is cleared
+2020-01-25 19:04:57,938 +0530 [main] INFO  (TC_DataproviderDDT_002.java:27) - Username is entered
+2020-01-25 19:04:58,008 +0530 [main] INFO  (TC_DataproviderDDT_002.java:29) - Password is entered
+2020-01-25 19:04:58,075 +0530 [main] INFO  (TC_DataproviderDDT_002.java:31) - Clicked on login button
+2020-01-25 19:04:58,080 +0530 [main] INFO  (TC_DataproviderDDT_002.java:33) - Alert text is captured
+2020-01-25 19:04:58,091 +0530 [main] INFO  (TC_DataproviderDDT_002.java:35) - Alert is handled
+2020-01-25 19:05:00,594 +0530 [main] INFO  (TC_DataproviderDDT_002.java:41) - LogIn_Test Test Passed
+2020-01-25 19:05:13,873 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:18) - Application URL is Launched
+2020-01-25 19:05:13,893 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:21) - we got Current page URL
+2020-01-25 19:05:13,979 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:23) - 1 is Clicked 
+2020-01-25 19:05:14,062 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:25) - + is Clicked 
+2020-01-25 19:05:14,155 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:27) - 6 is Clicked 
+2020-01-25 19:05:14,240 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:29) -  = is Clicked 
+2020-01-25 19:05:14,273 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:32) - Result is displayed
+2020-01-25 19:05:14,283 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:37) -  testCal Test Passed
+2020-01-25 19:05:27,995 +0530 [main] INFO  (TC_HandleCheckbox_004.java:18) - Application URL is Launched
+2020-01-25 19:05:28,002 +0530 [main] INFO  (TC_HandleCheckbox_004.java:23) - we got Current page URL
+2020-01-25 19:05:28,122 +0530 [main] INFO  (TC_HandleCheckbox_004.java:41) - testCheckbox Test Passed
+2020-01-25 19:05:42,872 +0530 [main] INFO  (TC_NavigationCommands_005.java:18) - Application URL is opend
+2020-01-25 19:05:42,883 +0530 [main] INFO  (TC_NavigationCommands_005.java:23) - The title of the page is stored
+2020-01-25 19:05:42,891 +0530 [main] INFO  (TC_NavigationCommands_005.java:28) - The title length is stored
+2020-01-25 19:05:42,898 +0530 [main] INFO  (TC_NavigationCommands_005.java:33) - we got Current page URL
+2020-01-25 19:05:59,361 +0530 [main] INFO  (TC_NavigationCommands_005.java:37) - Clicked on Gmail link in Google page
+2020-01-25 19:05:59,361 +0530 [main] INFO  (TC_NavigationCommands_005.java:39) - Gmail page is opend
+2020-01-25 19:06:00,101 +0530 [main] INFO  (TC_NavigationCommands_005.java:43) - Navigate back to Google page 
+2020-01-25 19:06:00,874 +0530 [main] INFO  (TC_NavigationCommands_005.java:47) - Navigate forward to gmail page
+2020-01-25 19:06:02,452 +0530 [main] INFO  (TC_NavigationCommands_005.java:51) - Navigate to Google page
+2020-01-25 19:06:02,469 +0530 [main] INFO  (TC_NavigationCommands_005.java:55) - Google page is refreshed
+2020-01-25 19:06:03,604 +0530 [main] INFO  (TC_NavigationCommands_005.java:61) - testBrowsercmds Test Passed
+2020-01-25 19:06:17,852 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:20) - Application URL is Launched
+2020-01-25 19:06:17,862 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:25) - The title of the page is stored
+2020-01-25 19:06:17,868 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:30) - The title length is stored
+2020-01-25 19:06:17,874 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:36) - we got Current page URL
+2020-01-25 19:06:17,881 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:42) - Stored the Domain name of the current url
+2020-01-25 19:06:17,990 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:47) - First name entered
+2020-01-25 19:06:18,111 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:49) - Second name entered
+2020-01-25 19:06:18,240 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:51) - Email entered
+2020-01-25 19:06:18,350 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:53) - Mobile number entered
+2020-01-25 19:06:18,504 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:55) - Company name entered
+2020-01-25 19:06:18,552 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:62) - Clicked on Submit button
+2020-01-25 19:06:18,561 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:65) - Captured the alert Text
+2020-01-25 19:06:18,573 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:68) - Alert handled
+2020-01-25 19:06:18,573 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:69) - Required Action Completed Successfully
+2020-01-25 19:06:21,347 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:90) - testDiffBetClickAndSubmit Test Passed
+2020-01-25 19:06:35,507 +0530 [main] INFO  (TC_CaptureScreenShot_008.java:20) - Application URL is Launched
+2020-01-25 19:06:35,519 +0530 [main] INFO  (TC_CaptureScreenShot_008.java:25) - The title of the page is stored
+2020-01-25 19:06:35,525 +0530 [main] INFO  (TC_CaptureScreenShot_008.java:30) - The title length is stored
+2020-01-25 19:06:35,533 +0530 [main] INFO  (TC_CaptureScreenShot_008.java:36) - we got Current page URL
+2020-01-25 19:06:35,541 +0530 [main] INFO  (TC_CaptureScreenShot_008.java:42) - Stored the Domain name of the current url
+2020-01-25 19:06:36,053 +0530 [main] INFO  (TC_CaptureScreenShot_008.java:71) - testCaptureScreenshot Test Passed
+2020-01-25 19:06:49,403 +0530 [main] INFO  (TC_GeneratingMouseHoverEventOnMainMenuToClickOnSubMenu_009.java:23) - Application URL is Launched
+2020-01-25 19:06:49,421 +0530 [main] INFO  (TC_GeneratingMouseHoverEventOnMainMenuToClickOnSubMenu_009.java:28) - The title of the page is stored
+2020-01-25 19:06:49,428 +0530 [main] INFO  (TC_GeneratingMouseHoverEventOnMainMenuToClickOnSubMenu_009.java:33) - The title length is stored
+2020-01-25 19:06:49,435 +0530 [main] INFO  (TC_GeneratingMouseHoverEventOnMainMenuToClickOnSubMenu_009.java:39) - we got Current page URL
+2020-01-25 19:06:49,444 +0530 [main] INFO  (TC_GeneratingMouseHoverEventOnMainMenuToClickOnSubMenu_009.java:45) - Stored the Domain name of the current url
+2020-01-25 19:06:51,991 +0530 [main] INFO  (TC_GeneratingMouseHoverEventOnMainMenuToClickOnSubMenu_009.java:75) - testGeneratingMouseHoverEventOnMainMenuToClickOnSubMenu Test Passed
+2020-01-25 19:07:06,535 +0530 [main] INFO  (TC_HandlingMultipleBrowserWindows_010.java:20) - Application URL is Launched
+2020-01-25 19:07:06,544 +0530 [main] INFO  (TC_HandlingMultipleBrowserWindows_010.java:25) - The title of the page is stored
+2020-01-25 19:07:06,550 +0530 [main] INFO  (TC_HandlingMultipleBrowserWindows_010.java:30) - The title length is stored
+2020-01-25 19:07:06,555 +0530 [main] INFO  (TC_HandlingMultipleBrowserWindows_010.java:36) - we got Current page URL
+2020-01-25 19:07:06,563 +0530 [main] INFO  (TC_HandlingMultipleBrowserWindows_010.java:42) - Stored the Domain name of the current url
+2020-01-25 19:07:32,091 +0530 [main] INFO  (TC_HandlingMultipleBrowserWindows_010.java:106) - testHandlingMultipleBrowserWindows Test Passed
+2020-01-25 19:07:32,983 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:07:32,985 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2020-01-25 19:07:32,988 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("index.ftl"): Found
+2020-01-25 19:07:32,989 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2020-01-25 19:07:33,366 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:07:33,367 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2020-01-25 19:07:33,368 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("head.ftl"): Found
+2020-01-25 19:07:33,368 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2020-01-25 19:07:33,373 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:07:33,374 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2020-01-25 19:07:33,374 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2020-01-25 19:07:33,375 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2020-01-25 19:07:33,387 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:07:33,388 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2020-01-25 19:07:33,389 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2020-01-25 19:07:33,389 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2020-01-25 19:07:33,411 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:07:33,412 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2020-01-25 19:07:33,413 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2020-01-25 19:07:33,413 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2020-01-25 19:07:33,460 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:07:33,461 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2020-01-25 19:07:33,462 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2020-01-25 19:07:33,462 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2020-01-25 19:07:33,491 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:07:33,493 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:07:33,496 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:07:33,500 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:07:33,502 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:07:33,504 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:07:33,507 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:07:33,511 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:07:33,525 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:07:33,526 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:07:33,528 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:07:33,529 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:07:33,531 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2020-01-25 19:07:33,532 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2020-01-25 19:07:33,532 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2020-01-25 19:07:33,542 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:07:33,543 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2020-01-25 19:07:33,544 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2020-01-25 19:07:33,544 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2020-01-25 19:07:33,553 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:07:33,554 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2020-01-25 19:07:33,555 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2020-01-25 19:07:33,555 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2020-01-25 19:07:33,565 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:07:33,566 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2020-01-25 19:07:33,568 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2020-01-25 19:07:33,568 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2020-01-25 19:07:33,622 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:07:33,623 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2020-01-25 19:07:33,624 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2020-01-25 19:07:33,624 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2020-01-25 19:12:07,160 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:21) - Application URL is Launched
+2020-01-25 19:12:07,180 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:26) - The title of the page is stored
+2020-01-25 19:12:07,187 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:31) - The title length is stored
+2020-01-25 19:12:07,197 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:37) - we got Current page URL
+2020-01-25 19:12:07,220 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:43) - Stored the Domain name of the current url
+2020-01-25 19:12:07,254 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:63) - Located Element which we want to drag
+2020-01-25 19:12:07,286 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:68) - Stored text of dragged element
+2020-01-25 19:12:07,323 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:72) - Located Element where we want to drop
+2020-01-25 19:12:07,629 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:81) - Required Action completed Successfully
+2020-01-25 19:12:22,930 +0530 [main] INFO  (TC_DataproviderDDT_002.java:16) - Application URL is launched
+2020-01-25 19:12:22,952 +0530 [main] INFO  (TC_DataproviderDDT_002.java:20) - we got Current page URL
+2020-01-25 19:12:23,146 +0530 [main] INFO  (TC_DataproviderDDT_002.java:23) - User id feild is cleared
+2020-01-25 19:12:23,231 +0530 [main] INFO  (TC_DataproviderDDT_002.java:25) - Password feild is cleared
+2020-01-25 19:12:23,352 +0530 [main] INFO  (TC_DataproviderDDT_002.java:27) - Username is entered
+2020-01-25 19:12:23,426 +0530 [main] INFO  (TC_DataproviderDDT_002.java:29) - Password is entered
+2020-01-25 19:12:23,494 +0530 [main] INFO  (TC_DataproviderDDT_002.java:31) - Clicked on login button
+2020-01-25 19:12:23,505 +0530 [main] INFO  (TC_DataproviderDDT_002.java:33) - Alert text is captured
+2020-01-25 19:12:23,529 +0530 [main] INFO  (TC_DataproviderDDT_002.java:35) - Alert is handled
+2020-01-25 19:12:26,051 +0530 [main] INFO  (TC_DataproviderDDT_002.java:41) - LogIn_Test Test Passed
+2020-01-25 19:12:28,665 +0530 [main] INFO  (TC_DataproviderDDT_002.java:16) - Application URL is launched
+2020-01-25 19:12:28,673 +0530 [main] INFO  (TC_DataproviderDDT_002.java:20) - we got Current page URL
+2020-01-25 19:12:28,736 +0530 [main] INFO  (TC_DataproviderDDT_002.java:23) - User id feild is cleared
+2020-01-25 19:12:28,795 +0530 [main] INFO  (TC_DataproviderDDT_002.java:25) - Password feild is cleared
+2020-01-25 19:12:28,895 +0530 [main] INFO  (TC_DataproviderDDT_002.java:27) - Username is entered
+2020-01-25 19:12:28,976 +0530 [main] INFO  (TC_DataproviderDDT_002.java:29) - Password is entered
+2020-01-25 19:12:29,044 +0530 [main] INFO  (TC_DataproviderDDT_002.java:31) - Clicked on login button
+2020-01-25 19:12:29,049 +0530 [main] INFO  (TC_DataproviderDDT_002.java:33) - Alert text is captured
+2020-01-25 19:12:29,073 +0530 [main] INFO  (TC_DataproviderDDT_002.java:35) - Alert is handled
+2020-01-25 19:12:31,613 +0530 [main] INFO  (TC_DataproviderDDT_002.java:41) - LogIn_Test Test Passed
+2020-01-25 19:12:34,701 +0530 [main] INFO  (TC_DataproviderDDT_002.java:16) - Application URL is launched
+2020-01-25 19:12:34,708 +0530 [main] INFO  (TC_DataproviderDDT_002.java:20) - we got Current page URL
+2020-01-25 19:12:34,756 +0530 [main] INFO  (TC_DataproviderDDT_002.java:23) - User id feild is cleared
+2020-01-25 19:12:34,818 +0530 [main] INFO  (TC_DataproviderDDT_002.java:25) - Password feild is cleared
+2020-01-25 19:12:34,924 +0530 [main] INFO  (TC_DataproviderDDT_002.java:27) - Username is entered
+2020-01-25 19:12:35,009 +0530 [main] INFO  (TC_DataproviderDDT_002.java:29) - Password is entered
+2020-01-25 19:12:35,077 +0530 [main] INFO  (TC_DataproviderDDT_002.java:31) - Clicked on login button
+2020-01-25 19:12:35,083 +0530 [main] INFO  (TC_DataproviderDDT_002.java:33) - Alert text is captured
+2020-01-25 19:12:35,114 +0530 [main] INFO  (TC_DataproviderDDT_002.java:35) - Alert is handled
+2020-01-25 19:12:37,690 +0530 [main] INFO  (TC_DataproviderDDT_002.java:41) - LogIn_Test Test Passed
+2020-01-25 19:12:40,425 +0530 [main] INFO  (TC_DataproviderDDT_002.java:16) - Application URL is launched
+2020-01-25 19:12:40,432 +0530 [main] INFO  (TC_DataproviderDDT_002.java:20) - we got Current page URL
+2020-01-25 19:12:40,484 +0530 [main] INFO  (TC_DataproviderDDT_002.java:23) - User id feild is cleared
+2020-01-25 19:12:40,536 +0530 [main] INFO  (TC_DataproviderDDT_002.java:25) - Password feild is cleared
+2020-01-25 19:12:40,640 +0530 [main] INFO  (TC_DataproviderDDT_002.java:27) - Username is entered
+2020-01-25 19:12:40,722 +0530 [main] INFO  (TC_DataproviderDDT_002.java:29) - Password is entered
+2020-01-25 19:12:40,805 +0530 [main] INFO  (TC_DataproviderDDT_002.java:31) - Clicked on login button
+2020-01-25 19:12:40,812 +0530 [main] INFO  (TC_DataproviderDDT_002.java:33) - Alert text is captured
+2020-01-25 19:12:40,838 +0530 [main] INFO  (TC_DataproviderDDT_002.java:35) - Alert is handled
+2020-01-25 19:12:44,822 +0530 [main] INFO  (TC_DataproviderDDT_002.java:41) - LogIn_Test Test Passed
+2020-01-25 19:12:59,322 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:18) - Application URL is Launched
+2020-01-25 19:12:59,342 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:21) - we got Current page URL
+2020-01-25 19:12:59,498 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:23) - 1 is Clicked 
+2020-01-25 19:12:59,571 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:25) - + is Clicked 
+2020-01-25 19:12:59,668 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:27) - 6 is Clicked 
+2020-01-25 19:12:59,757 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:29) -  = is Clicked 
+2020-01-25 19:12:59,787 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:32) - Result is displayed
+2020-01-25 19:12:59,793 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:37) -  testCal Test Passed
+2020-01-25 19:13:15,409 +0530 [main] INFO  (TC_HandleCheckbox_004.java:18) - Application URL is Launched
+2020-01-25 19:13:15,426 +0530 [main] INFO  (TC_HandleCheckbox_004.java:23) - we got Current page URL
+2020-01-25 19:13:15,549 +0530 [main] INFO  (TC_HandleCheckbox_004.java:41) - testCheckbox Test Passed
+2020-01-25 19:13:32,934 +0530 [main] INFO  (TC_NavigationCommands_005.java:18) - Application URL is opend
+2020-01-25 19:13:32,942 +0530 [main] INFO  (TC_NavigationCommands_005.java:23) - The title of the page is stored
+2020-01-25 19:13:32,948 +0530 [main] INFO  (TC_NavigationCommands_005.java:28) - The title length is stored
+2020-01-25 19:13:32,959 +0530 [main] INFO  (TC_NavigationCommands_005.java:33) - we got Current page URL
+2020-01-25 19:13:56,870 +0530 [main] INFO  (TC_NavigationCommands_005.java:37) - Clicked on Gmail link in Google page
+2020-01-25 19:13:56,870 +0530 [main] INFO  (TC_NavigationCommands_005.java:39) - Gmail page is opend
+2020-01-25 19:13:57,483 +0530 [main] INFO  (TC_NavigationCommands_005.java:43) - Navigate back to Google page 
+2020-01-25 19:13:58,070 +0530 [main] INFO  (TC_NavigationCommands_005.java:47) - Navigate forward to gmail page
+2020-01-25 19:14:01,105 +0530 [main] INFO  (TC_NavigationCommands_005.java:51) - Navigate to Google page
+2020-01-25 19:14:01,939 +0530 [main] INFO  (TC_NavigationCommands_005.java:55) - Google page is refreshed
+2020-01-25 19:14:01,953 +0530 [main] INFO  (TC_NavigationCommands_005.java:61) - testBrowsercmds Test Passed
+2020-01-25 19:14:20,004 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:20) - Application URL is Launched
+2020-01-25 19:14:20,014 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:25) - The title of the page is stored
+2020-01-25 19:14:20,021 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:30) - The title length is stored
+2020-01-25 19:14:20,035 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:36) - we got Current page URL
+2020-01-25 19:14:20,084 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:42) - Stored the Domain name of the current url
+2020-01-25 19:14:20,228 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:47) - First name entered
+2020-01-25 19:14:20,347 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:49) - Second name entered
+2020-01-25 19:14:20,441 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:51) - Email entered
+2020-01-25 19:14:20,540 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:53) - Mobile number entered
+2020-01-25 19:14:20,680 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:55) - Company name entered
+2020-01-25 19:14:20,723 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:62) - Clicked on Submit button
+2020-01-25 19:14:20,727 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:65) - Captured the alert Text
+2020-01-25 19:14:20,740 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:68) - Alert handled
+2020-01-25 19:14:20,741 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:69) - Required Action Completed Successfully
+2020-01-25 19:14:23,314 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:90) - testDiffBetClickAndSubmit Test Passed
+2020-01-25 19:14:39,330 +0530 [main] INFO  (TC_CaptureScreenShot_008.java:20) - Application URL is Launched
+2020-01-25 19:14:39,347 +0530 [main] INFO  (TC_CaptureScreenShot_008.java:25) - The title of the page is stored
+2020-01-25 19:14:39,355 +0530 [main] INFO  (TC_CaptureScreenShot_008.java:30) - The title length is stored
+2020-01-25 19:14:39,371 +0530 [main] INFO  (TC_CaptureScreenShot_008.java:36) - we got Current page URL
+2020-01-25 19:14:39,451 +0530 [main] INFO  (TC_CaptureScreenShot_008.java:42) - Stored the Domain name of the current url
+2020-01-25 19:14:39,926 +0530 [main] INFO  (TC_CaptureScreenShot_008.java:71) - testCaptureScreenshot Test Passed
+2020-01-25 19:14:56,212 +0530 [main] INFO  (TC_GeneratingMouseHoverEventOnMainMenuToClickOnSubMenu_009.java:23) - Application URL is Launched
+2020-01-25 19:14:56,243 +0530 [main] INFO  (TC_GeneratingMouseHoverEventOnMainMenuToClickOnSubMenu_009.java:28) - The title of the page is stored
+2020-01-25 19:14:56,249 +0530 [main] INFO  (TC_GeneratingMouseHoverEventOnMainMenuToClickOnSubMenu_009.java:33) - The title length is stored
+2020-01-25 19:14:56,258 +0530 [main] INFO  (TC_GeneratingMouseHoverEventOnMainMenuToClickOnSubMenu_009.java:39) - we got Current page URL
+2020-01-25 19:14:56,270 +0530 [main] INFO  (TC_GeneratingMouseHoverEventOnMainMenuToClickOnSubMenu_009.java:45) - Stored the Domain name of the current url
+2020-01-25 19:14:58,961 +0530 [main] INFO  (TC_GeneratingMouseHoverEventOnMainMenuToClickOnSubMenu_009.java:75) - testGeneratingMouseHoverEventOnMainMenuToClickOnSubMenu Test Passed
+2020-01-25 19:15:12,795 +0530 [main] INFO  (TC_HandlingMultipleBrowserWindows_010.java:20) - Application URL is Launched
+2020-01-25 19:15:12,807 +0530 [main] INFO  (TC_HandlingMultipleBrowserWindows_010.java:25) - The title of the page is stored
+2020-01-25 19:15:12,815 +0530 [main] INFO  (TC_HandlingMultipleBrowserWindows_010.java:30) - The title length is stored
+2020-01-25 19:15:12,822 +0530 [main] INFO  (TC_HandlingMultipleBrowserWindows_010.java:36) - we got Current page URL
+2020-01-25 19:15:12,831 +0530 [main] INFO  (TC_HandlingMultipleBrowserWindows_010.java:42) - Stored the Domain name of the current url
+2020-01-25 19:15:38,129 +0530 [main] INFO  (TC_HandlingMultipleBrowserWindows_010.java:106) - testHandlingMultipleBrowserWindows Test Passed
+2020-01-25 19:15:39,189 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:15:39,191 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2020-01-25 19:15:39,193 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("index.ftl"): Found
+2020-01-25 19:15:39,193 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2020-01-25 19:15:39,412 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:15:39,413 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2020-01-25 19:15:39,413 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("head.ftl"): Found
+2020-01-25 19:15:39,414 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2020-01-25 19:15:39,417 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:15:39,417 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2020-01-25 19:15:39,418 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2020-01-25 19:15:39,418 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2020-01-25 19:15:39,429 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:15:39,430 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2020-01-25 19:15:39,431 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2020-01-25 19:15:39,431 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2020-01-25 19:15:39,442 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:15:39,443 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2020-01-25 19:15:39,443 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2020-01-25 19:15:39,444 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2020-01-25 19:15:39,459 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:15:39,459 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2020-01-25 19:15:39,460 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2020-01-25 19:15:39,460 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2020-01-25 19:15:39,484 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:15:39,485 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:15:39,487 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:15:39,488 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:15:39,489 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:15:39,491 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:15:39,492 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:15:39,494 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:15:39,496 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:15:39,499 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:15:39,500 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:15:39,501 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:15:39,502 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2020-01-25 19:15:39,503 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2020-01-25 19:15:39,503 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2020-01-25 19:15:39,507 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:15:39,508 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2020-01-25 19:15:39,508 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2020-01-25 19:15:39,509 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2020-01-25 19:15:39,515 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:15:39,525 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2020-01-25 19:15:39,526 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2020-01-25 19:15:39,527 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2020-01-25 19:15:39,531 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:15:39,532 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2020-01-25 19:15:39,533 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2020-01-25 19:15:39,533 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2020-01-25 19:15:39,543 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:15:39,544 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2020-01-25 19:15:39,545 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2020-01-25 19:15:39,545 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2020-01-25 19:17:37,997 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:21) - Application URL is Launched
+2020-01-25 19:17:38,011 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:26) - The title of the page is stored
+2020-01-25 19:17:38,020 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:31) - The title length is stored
+2020-01-25 19:17:38,036 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:37) - we got Current page URL
+2020-01-25 19:17:38,050 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:43) - Stored the Domain name of the current url
+2020-01-25 19:17:38,085 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:63) - Located Element which we want to drag
+2020-01-25 19:17:38,108 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:68) - Stored text of dragged element
+2020-01-25 19:17:38,128 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:72) - Located Element where we want to drop
+2020-01-25 19:17:38,309 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:81) - Required Action completed Successfully
+2020-01-25 19:17:38,324 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:106) - dragAndDrop Test Passed
+2020-01-25 19:17:39,651 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:17:39,653 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2020-01-25 19:17:39,658 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("index.ftl"): Found
+2020-01-25 19:17:39,658 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2020-01-25 19:17:40,125 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:17:40,126 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2020-01-25 19:17:40,128 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("head.ftl"): Found
+2020-01-25 19:17:40,129 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2020-01-25 19:17:40,132 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:17:40,132 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2020-01-25 19:17:40,134 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2020-01-25 19:17:40,134 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2020-01-25 19:17:40,143 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:17:40,143 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2020-01-25 19:17:40,143 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2020-01-25 19:17:40,143 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2020-01-25 19:17:40,153 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:17:40,153 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2020-01-25 19:17:40,154 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2020-01-25 19:17:40,154 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2020-01-25 19:17:40,173 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:17:40,173 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2020-01-25 19:17:40,174 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2020-01-25 19:17:40,175 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2020-01-25 19:17:40,199 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:17:40,199 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2020-01-25 19:17:40,200 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2020-01-25 19:17:40,200 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2020-01-25 19:17:40,205 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:17:40,205 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2020-01-25 19:17:40,206 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2020-01-25 19:17:40,206 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2020-01-25 19:17:40,212 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:17:40,213 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2020-01-25 19:17:40,214 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2020-01-25 19:17:40,214 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2020-01-25 19:17:40,241 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:17:40,242 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2020-01-25 19:17:40,243 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2020-01-25 19:17:40,245 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2020-01-25 19:17:40,289 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:17:40,290 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2020-01-25 19:17:40,291 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2020-01-25 19:17:40,291 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2020-01-25 19:21:30,856 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:21) - Application URL is Launched
+2020-01-25 19:21:30,876 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:26) - The title of the page is stored
+2020-01-25 19:21:30,885 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:31) - The title length is stored
+2020-01-25 19:21:30,897 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:37) - we got Current page URL
+2020-01-25 19:21:30,915 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:43) - Stored the Domain name of the current url
+2020-01-25 19:21:30,961 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:63) - Located Element which we want to drag
+2020-01-25 19:21:30,994 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:68) - Stored text of dragged element
+2020-01-25 19:21:31,097 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:72) - Located Element where we want to drop
+2020-01-25 19:21:31,394 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:81) - Required Action completed Successfully
+2020-01-25 19:21:31,420 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:106) - dragAndDrop Test Passed
+2020-01-25 19:21:46,318 +0530 [main] INFO  (TC_DataproviderDDT_002.java:16) - Application URL is launched
+2020-01-25 19:21:46,328 +0530 [main] INFO  (TC_DataproviderDDT_002.java:20) - we got Current page URL
+2020-01-25 19:21:46,383 +0530 [main] INFO  (TC_DataproviderDDT_002.java:23) - User id feild is cleared
+2020-01-25 19:21:46,433 +0530 [main] INFO  (TC_DataproviderDDT_002.java:25) - Password feild is cleared
+2020-01-25 19:21:46,582 +0530 [main] INFO  (TC_DataproviderDDT_002.java:27) - Username is entered
+2020-01-25 19:21:46,660 +0530 [main] INFO  (TC_DataproviderDDT_002.java:29) - Password is entered
+2020-01-25 19:21:46,753 +0530 [main] INFO  (TC_DataproviderDDT_002.java:31) - Clicked on login button
+2020-01-25 19:21:46,769 +0530 [main] INFO  (TC_DataproviderDDT_002.java:33) - Alert text is captured
+2020-01-25 19:21:46,799 +0530 [main] INFO  (TC_DataproviderDDT_002.java:35) - Alert is handled
+2020-01-25 19:21:49,571 +0530 [main] INFO  (TC_DataproviderDDT_002.java:41) - LogIn_Test Test Passed
+2020-01-25 19:21:52,151 +0530 [main] INFO  (TC_DataproviderDDT_002.java:16) - Application URL is launched
+2020-01-25 19:21:52,161 +0530 [main] INFO  (TC_DataproviderDDT_002.java:20) - we got Current page URL
+2020-01-25 19:21:52,227 +0530 [main] INFO  (TC_DataproviderDDT_002.java:23) - User id feild is cleared
+2020-01-25 19:21:52,299 +0530 [main] INFO  (TC_DataproviderDDT_002.java:25) - Password feild is cleared
+2020-01-25 19:21:52,491 +0530 [main] INFO  (TC_DataproviderDDT_002.java:27) - Username is entered
+2020-01-25 19:21:52,621 +0530 [main] INFO  (TC_DataproviderDDT_002.java:29) - Password is entered
+2020-01-25 19:21:52,722 +0530 [main] INFO  (TC_DataproviderDDT_002.java:31) - Clicked on login button
+2020-01-25 19:21:52,730 +0530 [main] INFO  (TC_DataproviderDDT_002.java:33) - Alert text is captured
+2020-01-25 19:21:52,757 +0530 [main] INFO  (TC_DataproviderDDT_002.java:35) - Alert is handled
+2020-01-25 19:21:56,456 +0530 [main] INFO  (TC_DataproviderDDT_002.java:41) - LogIn_Test Test Passed
+2020-01-25 19:21:59,524 +0530 [main] INFO  (TC_DataproviderDDT_002.java:16) - Application URL is launched
+2020-01-25 19:21:59,533 +0530 [main] INFO  (TC_DataproviderDDT_002.java:20) - we got Current page URL
+2020-01-25 19:21:59,587 +0530 [main] INFO  (TC_DataproviderDDT_002.java:23) - User id feild is cleared
+2020-01-25 19:21:59,638 +0530 [main] INFO  (TC_DataproviderDDT_002.java:25) - Password feild is cleared
+2020-01-25 19:21:59,738 +0530 [main] INFO  (TC_DataproviderDDT_002.java:27) - Username is entered
+2020-01-25 19:21:59,823 +0530 [main] INFO  (TC_DataproviderDDT_002.java:29) - Password is entered
+2020-01-25 19:21:59,903 +0530 [main] INFO  (TC_DataproviderDDT_002.java:31) - Clicked on login button
+2020-01-25 19:21:59,909 +0530 [main] INFO  (TC_DataproviderDDT_002.java:33) - Alert text is captured
+2020-01-25 19:21:59,947 +0530 [main] INFO  (TC_DataproviderDDT_002.java:35) - Alert is handled
+2020-01-25 19:22:02,192 +0530 [main] INFO  (TC_DataproviderDDT_002.java:41) - LogIn_Test Test Passed
+2020-01-25 19:22:05,259 +0530 [main] INFO  (TC_DataproviderDDT_002.java:16) - Application URL is launched
+2020-01-25 19:22:05,266 +0530 [main] INFO  (TC_DataproviderDDT_002.java:20) - we got Current page URL
+2020-01-25 19:22:05,317 +0530 [main] INFO  (TC_DataproviderDDT_002.java:23) - User id feild is cleared
+2020-01-25 19:22:05,374 +0530 [main] INFO  (TC_DataproviderDDT_002.java:25) - Password feild is cleared
+2020-01-25 19:22:05,476 +0530 [main] INFO  (TC_DataproviderDDT_002.java:27) - Username is entered
+2020-01-25 19:22:05,562 +0530 [main] INFO  (TC_DataproviderDDT_002.java:29) - Password is entered
+2020-01-25 19:22:05,633 +0530 [main] INFO  (TC_DataproviderDDT_002.java:31) - Clicked on login button
+2020-01-25 19:22:05,640 +0530 [main] INFO  (TC_DataproviderDDT_002.java:33) - Alert text is captured
+2020-01-25 19:22:05,666 +0530 [main] INFO  (TC_DataproviderDDT_002.java:35) - Alert is handled
+2020-01-25 19:22:09,152 +0530 [main] INFO  (TC_DataproviderDDT_002.java:41) - LogIn_Test Test Passed
+2020-01-25 19:22:22,228 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:18) - Application URL is Launched
+2020-01-25 19:22:22,241 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:21) - we got Current page URL
+2020-01-25 19:22:22,332 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:23) - 1 is Clicked 
+2020-01-25 19:22:22,417 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:25) - + is Clicked 
+2020-01-25 19:22:22,507 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:27) - 6 is Clicked 
+2020-01-25 19:22:22,590 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:29) -  = is Clicked 
+2020-01-25 19:22:22,620 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:32) - Result is displayed
+2020-01-25 19:22:22,627 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:37) -  testCal Test Passed
+2020-01-25 19:22:36,407 +0530 [main] INFO  (TC_HandleCheckbox_004.java:18) - Application URL is Launched
+2020-01-25 19:22:36,419 +0530 [main] INFO  (TC_HandleCheckbox_004.java:23) - we got Current page URL
+2020-01-25 19:22:36,529 +0530 [main] INFO  (TC_HandleCheckbox_004.java:41) - testCheckbox Test Passed
+2020-01-25 19:22:49,214 +0530 [main] INFO  (TC_NavigationCommands_005.java:18) - Application URL is opend
+2020-01-25 19:22:49,230 +0530 [main] INFO  (TC_NavigationCommands_005.java:23) - The title of the page is stored
+2020-01-25 19:22:49,238 +0530 [main] INFO  (TC_NavigationCommands_005.java:28) - The title length is stored
+2020-01-25 19:22:49,258 +0530 [main] INFO  (TC_NavigationCommands_005.java:33) - we got Current page URL
+2020-01-25 19:22:59,170 +0530 [main] INFO  (TC_NavigationCommands_005.java:37) - Clicked on Gmail link in Google page
+2020-01-25 19:22:59,170 +0530 [main] INFO  (TC_NavigationCommands_005.java:39) - Gmail page is opend
+2020-01-25 19:22:59,691 +0530 [main] INFO  (TC_NavigationCommands_005.java:43) - Navigate back to Google page 
+2020-01-25 19:23:00,124 +0530 [main] INFO  (TC_NavigationCommands_005.java:47) - Navigate forward to gmail page
+2020-01-25 19:23:00,588 +0530 [main] INFO  (TC_NavigationCommands_005.java:51) - Navigate to Google page
+2020-01-25 19:23:00,996 +0530 [main] INFO  (TC_NavigationCommands_005.java:55) - Google page is refreshed
+2020-01-25 19:23:01,007 +0530 [main] INFO  (TC_NavigationCommands_005.java:61) - testBrowsercmds Test Passed
+2020-01-25 19:23:16,305 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:20) - Application URL is Launched
+2020-01-25 19:23:16,320 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:25) - The title of the page is stored
+2020-01-25 19:23:16,331 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:30) - The title length is stored
+2020-01-25 19:23:16,336 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:36) - we got Current page URL
+2020-01-25 19:23:16,346 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:42) - Stored the Domain name of the current url
+2020-01-25 19:23:16,467 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:47) - First name entered
+2020-01-25 19:23:16,561 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:49) - Second name entered
+2020-01-25 19:23:16,667 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:51) - Email entered
+2020-01-25 19:23:16,766 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:53) - Mobile number entered
+2020-01-25 19:23:16,883 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:55) - Company name entered
+2020-01-25 19:23:16,924 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:62) - Clicked on Submit button
+2020-01-25 19:23:16,931 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:65) - Captured the alert Text
+2020-01-25 19:23:16,966 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:68) - Alert handled
+2020-01-25 19:23:16,966 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:69) - Required Action Completed Successfully
+2020-01-25 19:23:19,461 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:90) - testDiffBetClickAndSubmit Test Passed
+2020-01-25 19:23:33,877 +0530 [main] INFO  (TC_CaptureScreenShot_008.java:20) - Application URL is Launched
+2020-01-25 19:23:33,888 +0530 [main] INFO  (TC_CaptureScreenShot_008.java:25) - The title of the page is stored
+2020-01-25 19:23:33,894 +0530 [main] INFO  (TC_CaptureScreenShot_008.java:30) - The title length is stored
+2020-01-25 19:23:33,900 +0530 [main] INFO  (TC_CaptureScreenShot_008.java:36) - we got Current page URL
+2020-01-25 19:23:33,910 +0530 [main] INFO  (TC_CaptureScreenShot_008.java:42) - Stored the Domain name of the current url
+2020-01-25 19:23:34,357 +0530 [main] INFO  (TC_CaptureScreenShot_008.java:71) - testCaptureScreenshot Test Passed
+2020-01-25 19:23:49,756 +0530 [main] INFO  (TC_GeneratingMouseHoverEventOnMainMenuToClickOnSubMenu_009.java:23) - Application URL is Launched
+2020-01-25 19:23:49,765 +0530 [main] INFO  (TC_GeneratingMouseHoverEventOnMainMenuToClickOnSubMenu_009.java:28) - The title of the page is stored
+2020-01-25 19:23:49,771 +0530 [main] INFO  (TC_GeneratingMouseHoverEventOnMainMenuToClickOnSubMenu_009.java:33) - The title length is stored
+2020-01-25 19:23:49,779 +0530 [main] INFO  (TC_GeneratingMouseHoverEventOnMainMenuToClickOnSubMenu_009.java:39) - we got Current page URL
+2020-01-25 19:23:49,786 +0530 [main] INFO  (TC_GeneratingMouseHoverEventOnMainMenuToClickOnSubMenu_009.java:45) - Stored the Domain name of the current url
+2020-01-25 19:23:52,277 +0530 [main] INFO  (TC_GeneratingMouseHoverEventOnMainMenuToClickOnSubMenu_009.java:75) - testGeneratingMouseHoverEventOnMainMenuToClickOnSubMenu Test Passed
+2020-01-25 19:24:05,674 +0530 [main] INFO  (TC_HandlingMultipleBrowserWindows_010.java:20) - Application URL is Launched
+2020-01-25 19:24:05,689 +0530 [main] INFO  (TC_HandlingMultipleBrowserWindows_010.java:25) - The title of the page is stored
+2020-01-25 19:24:05,697 +0530 [main] INFO  (TC_HandlingMultipleBrowserWindows_010.java:30) - The title length is stored
+2020-01-25 19:24:05,704 +0530 [main] INFO  (TC_HandlingMultipleBrowserWindows_010.java:36) - we got Current page URL
+2020-01-25 19:24:05,712 +0530 [main] INFO  (TC_HandlingMultipleBrowserWindows_010.java:42) - Stored the Domain name of the current url
+2020-01-25 19:24:31,065 +0530 [main] INFO  (TC_HandlingMultipleBrowserWindows_010.java:106) - testHandlingMultipleBrowserWindows Test Passed
+2020-01-25 19:24:32,063 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:24:32,066 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2020-01-25 19:24:32,071 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("index.ftl"): Found
+2020-01-25 19:24:32,072 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2020-01-25 19:24:32,576 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:24:32,577 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2020-01-25 19:24:32,577 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("head.ftl"): Found
+2020-01-25 19:24:32,578 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2020-01-25 19:24:32,582 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:24:32,584 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2020-01-25 19:24:32,584 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2020-01-25 19:24:32,585 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2020-01-25 19:24:32,619 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:24:32,620 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2020-01-25 19:24:32,623 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2020-01-25 19:24:32,624 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2020-01-25 19:24:32,650 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:24:32,652 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2020-01-25 19:24:32,653 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2020-01-25 19:24:32,653 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2020-01-25 19:24:32,684 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:24:32,685 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2020-01-25 19:24:32,686 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2020-01-25 19:24:32,687 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2020-01-25 19:24:32,718 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:24:32,721 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:24:32,724 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:24:32,726 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:24:32,728 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:24:32,730 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:24:32,731 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:24:32,734 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:24:32,737 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:24:32,739 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:24:32,741 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:24:32,743 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:24:32,743 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2020-01-25 19:24:32,744 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2020-01-25 19:24:32,745 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2020-01-25 19:24:32,752 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:24:32,753 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2020-01-25 19:24:32,754 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2020-01-25 19:24:32,754 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2020-01-25 19:24:32,767 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:24:32,768 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2020-01-25 19:24:32,769 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2020-01-25 19:24:32,770 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2020-01-25 19:24:32,784 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:24:32,785 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2020-01-25 19:24:32,787 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2020-01-25 19:24:32,787 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2020-01-25 19:24:32,834 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:24:32,835 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2020-01-25 19:24:32,839 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2020-01-25 19:24:32,840 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2020-01-25 19:26:59,696 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:21) - Application URL is Launched
+2020-01-25 19:26:59,733 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:26) - The title of the page is stored
+2020-01-25 19:26:59,752 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:31) - The title length is stored
+2020-01-25 19:26:59,768 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:37) - we got Current page URL
+2020-01-25 19:26:59,808 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:43) - Stored the Domain name of the current url
+2020-01-25 19:26:59,858 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:63) - Located Element which we want to drag
+2020-01-25 19:26:59,901 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:68) - Stored text of dragged element
+2020-01-25 19:27:00,046 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:72) - Located Element where we want to drop
+2020-01-25 19:27:00,588 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:81) - Required Action completed Successfully
+2020-01-25 19:27:00,640 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:106) - dragAndDrop Test Passed
+2020-01-25 19:27:14,539 +0530 [main] INFO  (TC_DataproviderDDT_002.java:16) - Application URL is launched
+2020-01-25 19:27:14,556 +0530 [main] INFO  (TC_DataproviderDDT_002.java:20) - we got Current page URL
+2020-01-25 19:27:14,670 +0530 [main] INFO  (TC_DataproviderDDT_002.java:23) - User id feild is cleared
+2020-01-25 19:27:14,752 +0530 [main] INFO  (TC_DataproviderDDT_002.java:25) - Password feild is cleared
+2020-01-25 19:27:14,910 +0530 [main] INFO  (TC_DataproviderDDT_002.java:27) - Username is entered
+2020-01-25 19:27:15,000 +0530 [main] INFO  (TC_DataproviderDDT_002.java:29) - Password is entered
+2020-01-25 19:27:15,083 +0530 [main] INFO  (TC_DataproviderDDT_002.java:31) - Clicked on login button
+2020-01-25 19:27:15,096 +0530 [main] INFO  (TC_DataproviderDDT_002.java:33) - Alert text is captured
+2020-01-25 19:27:15,127 +0530 [main] INFO  (TC_DataproviderDDT_002.java:35) - Alert is handled
+2020-01-25 19:27:17,995 +0530 [main] INFO  (TC_DataproviderDDT_002.java:41) - LogIn_Test Test Passed
+2020-01-25 19:27:20,651 +0530 [main] INFO  (TC_DataproviderDDT_002.java:16) - Application URL is launched
+2020-01-25 19:27:20,665 +0530 [main] INFO  (TC_DataproviderDDT_002.java:20) - we got Current page URL
+2020-01-25 19:27:20,720 +0530 [main] INFO  (TC_DataproviderDDT_002.java:23) - User id feild is cleared
+2020-01-25 19:27:20,773 +0530 [main] INFO  (TC_DataproviderDDT_002.java:25) - Password feild is cleared
+2020-01-25 19:27:20,880 +0530 [main] INFO  (TC_DataproviderDDT_002.java:27) - Username is entered
+2020-01-25 19:27:20,963 +0530 [main] INFO  (TC_DataproviderDDT_002.java:29) - Password is entered
+2020-01-25 19:27:21,033 +0530 [main] INFO  (TC_DataproviderDDT_002.java:31) - Clicked on login button
+2020-01-25 19:27:21,042 +0530 [main] INFO  (TC_DataproviderDDT_002.java:33) - Alert text is captured
+2020-01-25 19:27:21,073 +0530 [main] INFO  (TC_DataproviderDDT_002.java:35) - Alert is handled
+2020-01-25 19:27:23,725 +0530 [main] INFO  (TC_DataproviderDDT_002.java:41) - LogIn_Test Test Passed
+2020-01-25 19:27:26,183 +0530 [main] INFO  (TC_DataproviderDDT_002.java:16) - Application URL is launched
+2020-01-25 19:27:26,191 +0530 [main] INFO  (TC_DataproviderDDT_002.java:20) - we got Current page URL
+2020-01-25 19:27:26,240 +0530 [main] INFO  (TC_DataproviderDDT_002.java:23) - User id feild is cleared
+2020-01-25 19:27:26,293 +0530 [main] INFO  (TC_DataproviderDDT_002.java:25) - Password feild is cleared
+2020-01-25 19:27:26,408 +0530 [main] INFO  (TC_DataproviderDDT_002.java:27) - Username is entered
+2020-01-25 19:27:26,541 +0530 [main] INFO  (TC_DataproviderDDT_002.java:29) - Password is entered
+2020-01-25 19:27:26,613 +0530 [main] INFO  (TC_DataproviderDDT_002.java:31) - Clicked on login button
+2020-01-25 19:27:26,620 +0530 [main] INFO  (TC_DataproviderDDT_002.java:33) - Alert text is captured
+2020-01-25 19:27:26,644 +0530 [main] INFO  (TC_DataproviderDDT_002.java:35) - Alert is handled
+2020-01-25 19:27:29,461 +0530 [main] INFO  (TC_DataproviderDDT_002.java:41) - LogIn_Test Test Passed
+2020-01-25 19:27:32,330 +0530 [main] INFO  (TC_DataproviderDDT_002.java:16) - Application URL is launched
+2020-01-25 19:27:32,344 +0530 [main] INFO  (TC_DataproviderDDT_002.java:20) - we got Current page URL
+2020-01-25 19:27:32,419 +0530 [main] INFO  (TC_DataproviderDDT_002.java:23) - User id feild is cleared
+2020-01-25 19:27:32,496 +0530 [main] INFO  (TC_DataproviderDDT_002.java:25) - Password feild is cleared
+2020-01-25 19:27:32,620 +0530 [main] INFO  (TC_DataproviderDDT_002.java:27) - Username is entered
+2020-01-25 19:27:32,721 +0530 [main] INFO  (TC_DataproviderDDT_002.java:29) - Password is entered
+2020-01-25 19:27:32,829 +0530 [main] INFO  (TC_DataproviderDDT_002.java:31) - Clicked on login button
+2020-01-25 19:27:32,842 +0530 [main] INFO  (TC_DataproviderDDT_002.java:33) - Alert text is captured
+2020-01-25 19:27:32,890 +0530 [main] INFO  (TC_DataproviderDDT_002.java:35) - Alert is handled
+2020-01-25 19:27:35,603 +0530 [main] INFO  (TC_DataproviderDDT_002.java:41) - LogIn_Test Test Passed
+2020-01-25 19:27:48,598 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:18) - Application URL is Launched
+2020-01-25 19:27:48,615 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:21) - we got Current page URL
+2020-01-25 19:27:48,691 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:23) - 1 is Clicked 
+2020-01-25 19:27:48,770 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:25) - + is Clicked 
+2020-01-25 19:27:48,865 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:27) - 6 is Clicked 
+2020-01-25 19:27:48,947 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:29) -  = is Clicked 
+2020-01-25 19:27:48,979 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:32) - Result is displayed
+2020-01-25 19:27:48,988 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:37) -  testCal Test Passed
+2020-01-25 19:28:02,663 +0530 [main] INFO  (TC_HandleCheckbox_004.java:18) - Application URL is Launched
+2020-01-25 19:28:02,673 +0530 [main] INFO  (TC_HandleCheckbox_004.java:23) - we got Current page URL
+2020-01-25 19:28:02,789 +0530 [main] INFO  (TC_HandleCheckbox_004.java:41) - testCheckbox Test Passed
+2020-01-25 19:28:15,185 +0530 [main] INFO  (TC_NavigationCommands_005.java:18) - Application URL is opend
+2020-01-25 19:28:15,232 +0530 [main] INFO  (TC_NavigationCommands_005.java:23) - The title of the page is stored
+2020-01-25 19:28:15,253 +0530 [main] INFO  (TC_NavigationCommands_005.java:28) - The title length is stored
+2020-01-25 19:28:15,267 +0530 [main] INFO  (TC_NavigationCommands_005.java:33) - we got Current page URL
+2020-01-25 19:28:19,197 +0530 [main] INFO  (TC_NavigationCommands_005.java:37) - Clicked on Gmail link in Google page
+2020-01-25 19:28:19,198 +0530 [main] INFO  (TC_NavigationCommands_005.java:39) - Gmail page is opend
+2020-01-25 19:28:19,624 +0530 [main] INFO  (TC_NavigationCommands_005.java:43) - Navigate back to Google page 
+2020-01-25 19:28:20,217 +0530 [main] INFO  (TC_NavigationCommands_005.java:47) - Navigate forward to gmail page
+2020-01-25 19:28:20,729 +0530 [main] INFO  (TC_NavigationCommands_005.java:51) - Navigate to Google page
+2020-01-25 19:28:21,126 +0530 [main] INFO  (TC_NavigationCommands_005.java:55) - Google page is refreshed
+2020-01-25 19:28:21,136 +0530 [main] INFO  (TC_NavigationCommands_005.java:61) - testBrowsercmds Test Passed
+2020-01-25 19:28:41,319 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:20) - Application URL is Launched
+2020-01-25 19:28:41,331 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:25) - The title of the page is stored
+2020-01-25 19:28:41,340 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:30) - The title length is stored
+2020-01-25 19:28:41,351 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:36) - we got Current page URL
+2020-01-25 19:28:41,365 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:42) - Stored the Domain name of the current url
+2020-01-25 19:28:41,486 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:47) - First name entered
+2020-01-25 19:28:41,572 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:49) - Second name entered
+2020-01-25 19:28:41,685 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:51) - Email entered
+2020-01-25 19:28:41,888 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:53) - Mobile number entered
+2020-01-25 19:28:42,059 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:55) - Company name entered
+2020-01-25 19:28:42,124 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:62) - Clicked on Submit button
+2020-01-25 19:28:42,134 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:65) - Captured the alert Text
+2020-01-25 19:28:42,168 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:68) - Alert handled
+2020-01-25 19:28:42,169 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:69) - Required Action Completed Successfully
+2020-01-25 19:28:45,518 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:90) - testDiffBetClickAndSubmit Test Passed
+2020-01-25 19:28:59,527 +0530 [main] INFO  (TC_CaptureScreenShot_008.java:20) - Application URL is Launched
+2020-01-25 19:28:59,538 +0530 [main] INFO  (TC_CaptureScreenShot_008.java:25) - The title of the page is stored
+2020-01-25 19:28:59,548 +0530 [main] INFO  (TC_CaptureScreenShot_008.java:30) - The title length is stored
+2020-01-25 19:28:59,560 +0530 [main] INFO  (TC_CaptureScreenShot_008.java:36) - we got Current page URL
+2020-01-25 19:28:59,571 +0530 [main] INFO  (TC_CaptureScreenShot_008.java:42) - Stored the Domain name of the current url
+2020-01-25 19:29:00,065 +0530 [main] INFO  (TC_CaptureScreenShot_008.java:71) - testCaptureScreenshot Test Passed
+2020-01-25 19:29:14,047 +0530 [main] INFO  (TC_GeneratingMouseHoverEventOnMainMenuToClickOnSubMenu_009.java:23) - Application URL is Launched
+2020-01-25 19:29:14,057 +0530 [main] INFO  (TC_GeneratingMouseHoverEventOnMainMenuToClickOnSubMenu_009.java:28) - The title of the page is stored
+2020-01-25 19:29:14,071 +0530 [main] INFO  (TC_GeneratingMouseHoverEventOnMainMenuToClickOnSubMenu_009.java:33) - The title length is stored
+2020-01-25 19:29:14,077 +0530 [main] INFO  (TC_GeneratingMouseHoverEventOnMainMenuToClickOnSubMenu_009.java:39) - we got Current page URL
+2020-01-25 19:29:14,085 +0530 [main] INFO  (TC_GeneratingMouseHoverEventOnMainMenuToClickOnSubMenu_009.java:45) - Stored the Domain name of the current url
+2020-01-25 19:29:16,794 +0530 [main] INFO  (TC_GeneratingMouseHoverEventOnMainMenuToClickOnSubMenu_009.java:75) - testGeneratingMouseHoverEventOnMainMenuToClickOnSubMenu Test Passed
+2020-01-25 19:29:40,067 +0530 [main] INFO  (TC_HandlingMultipleBrowserWindows_010.java:20) - Application URL is Launched
+2020-01-25 19:29:40,092 +0530 [main] INFO  (TC_HandlingMultipleBrowserWindows_010.java:25) - The title of the page is stored
+2020-01-25 19:29:40,107 +0530 [main] INFO  (TC_HandlingMultipleBrowserWindows_010.java:30) - The title length is stored
+2020-01-25 19:29:40,118 +0530 [main] INFO  (TC_HandlingMultipleBrowserWindows_010.java:36) - we got Current page URL
+2020-01-25 19:29:40,129 +0530 [main] INFO  (TC_HandlingMultipleBrowserWindows_010.java:42) - Stored the Domain name of the current url
+2020-01-25 19:30:19,902 +0530 [main] INFO  (TC_HandlingMultipleBrowserWindows_010.java:106) - testHandlingMultipleBrowserWindows Test Passed
+2020-01-25 19:30:20,783 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:30:20,786 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2020-01-25 19:30:20,791 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("index.ftl"): Found
+2020-01-25 19:30:20,793 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2020-01-25 19:30:21,258 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:30:21,260 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2020-01-25 19:30:21,261 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("head.ftl"): Found
+2020-01-25 19:30:21,266 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2020-01-25 19:30:21,271 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:30:21,272 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2020-01-25 19:30:21,273 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2020-01-25 19:30:21,273 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2020-01-25 19:30:21,300 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:30:21,301 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2020-01-25 19:30:21,304 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2020-01-25 19:30:21,305 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2020-01-25 19:30:21,329 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:30:21,331 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2020-01-25 19:30:21,333 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2020-01-25 19:30:21,336 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2020-01-25 19:30:21,390 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:30:21,391 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2020-01-25 19:30:21,392 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2020-01-25 19:30:21,395 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2020-01-25 19:30:21,431 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:30:21,442 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:30:21,444 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:30:21,448 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:30:21,451 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:30:21,454 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:30:21,455 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:30:21,459 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:30:21,462 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:30:21,466 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:30:21,469 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:30:21,473 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:30:21,474 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2020-01-25 19:30:21,476 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2020-01-25 19:30:21,477 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2020-01-25 19:30:21,493 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:30:21,494 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2020-01-25 19:30:21,496 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2020-01-25 19:30:21,497 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2020-01-25 19:30:21,511 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:30:21,512 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2020-01-25 19:30:21,513 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2020-01-25 19:30:21,514 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2020-01-25 19:30:21,577 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:30:21,579 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2020-01-25 19:30:21,579 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2020-01-25 19:30:21,579 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2020-01-25 19:30:21,603 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:30:21,604 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2020-01-25 19:30:21,605 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2020-01-25 19:30:21,605 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2020-01-25 19:31:45,535 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:21) - Application URL is Launched
+2020-01-25 19:31:45,556 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:26) - The title of the page is stored
+2020-01-25 19:31:45,580 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:31) - The title length is stored
+2020-01-25 19:31:45,599 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:37) - we got Current page URL
+2020-01-25 19:31:45,622 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:43) - Stored the Domain name of the current url
+2020-01-25 19:31:45,675 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:63) - Located Element which we want to drag
+2020-01-25 19:31:45,701 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:68) - Stored text of dragged element
+2020-01-25 19:31:45,809 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:72) - Located Element where we want to drop
+2020-01-25 19:31:46,063 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:81) - Required Action completed Successfully
+2020-01-25 19:31:46,082 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:106) - dragAndDrop Test Passed
+2020-01-25 19:32:01,195 +0530 [main] INFO  (TC_DataproviderDDT_002.java:16) - Application URL is launched
+2020-01-25 19:32:01,209 +0530 [main] INFO  (TC_DataproviderDDT_002.java:20) - we got Current page URL
+2020-01-25 19:32:01,269 +0530 [main] INFO  (TC_DataproviderDDT_002.java:23) - User id feild is cleared
+2020-01-25 19:32:01,319 +0530 [main] INFO  (TC_DataproviderDDT_002.java:25) - Password feild is cleared
+2020-01-25 19:32:01,440 +0530 [main] INFO  (TC_DataproviderDDT_002.java:27) - Username is entered
+2020-01-25 19:32:01,516 +0530 [main] INFO  (TC_DataproviderDDT_002.java:29) - Password is entered
+2020-01-25 19:32:01,602 +0530 [main] INFO  (TC_DataproviderDDT_002.java:31) - Clicked on login button
+2020-01-25 19:32:01,615 +0530 [main] INFO  (TC_DataproviderDDT_002.java:33) - Alert text is captured
+2020-01-25 19:32:01,650 +0530 [main] INFO  (TC_DataproviderDDT_002.java:35) - Alert is handled
+2020-01-25 19:32:05,109 +0530 [main] INFO  (TC_DataproviderDDT_002.java:41) - LogIn_Test Test Passed
+2020-01-25 19:32:07,935 +0530 [main] INFO  (TC_DataproviderDDT_002.java:16) - Application URL is launched
+2020-01-25 19:32:07,951 +0530 [main] INFO  (TC_DataproviderDDT_002.java:20) - we got Current page URL
+2020-01-25 19:32:08,006 +0530 [main] INFO  (TC_DataproviderDDT_002.java:23) - User id feild is cleared
+2020-01-25 19:32:08,062 +0530 [main] INFO  (TC_DataproviderDDT_002.java:25) - Password feild is cleared
+2020-01-25 19:32:08,176 +0530 [main] INFO  (TC_DataproviderDDT_002.java:27) - Username is entered
+2020-01-25 19:32:08,277 +0530 [main] INFO  (TC_DataproviderDDT_002.java:29) - Password is entered
+2020-01-25 19:32:08,356 +0530 [main] INFO  (TC_DataproviderDDT_002.java:31) - Clicked on login button
+2020-01-25 19:32:08,369 +0530 [main] INFO  (TC_DataproviderDDT_002.java:33) - Alert text is captured
+2020-01-25 19:32:08,398 +0530 [main] INFO  (TC_DataproviderDDT_002.java:35) - Alert is handled
+2020-01-25 19:32:10,472 +0530 [main] INFO  (TC_DataproviderDDT_002.java:41) - LogIn_Test Test Passed
+2020-01-25 19:32:13,719 +0530 [main] INFO  (TC_DataproviderDDT_002.java:16) - Application URL is launched
+2020-01-25 19:32:13,729 +0530 [main] INFO  (TC_DataproviderDDT_002.java:20) - we got Current page URL
+2020-01-25 19:32:13,787 +0530 [main] INFO  (TC_DataproviderDDT_002.java:23) - User id feild is cleared
+2020-01-25 19:32:13,840 +0530 [main] INFO  (TC_DataproviderDDT_002.java:25) - Password feild is cleared
+2020-01-25 19:32:13,957 +0530 [main] INFO  (TC_DataproviderDDT_002.java:27) - Username is entered
+2020-01-25 19:32:14,045 +0530 [main] INFO  (TC_DataproviderDDT_002.java:29) - Password is entered
+2020-01-25 19:32:14,124 +0530 [main] INFO  (TC_DataproviderDDT_002.java:31) - Clicked on login button
+2020-01-25 19:32:14,135 +0530 [main] INFO  (TC_DataproviderDDT_002.java:33) - Alert text is captured
+2020-01-25 19:32:14,155 +0530 [main] INFO  (TC_DataproviderDDT_002.java:35) - Alert is handled
+2020-01-25 19:32:16,920 +0530 [main] INFO  (TC_DataproviderDDT_002.java:41) - LogIn_Test Test Passed
+2020-01-25 19:32:20,658 +0530 [main] INFO  (TC_DataproviderDDT_002.java:16) - Application URL is launched
+2020-01-25 19:32:20,671 +0530 [main] INFO  (TC_DataproviderDDT_002.java:20) - we got Current page URL
+2020-01-25 19:32:20,746 +0530 [main] INFO  (TC_DataproviderDDT_002.java:23) - User id feild is cleared
+2020-01-25 19:32:20,801 +0530 [main] INFO  (TC_DataproviderDDT_002.java:25) - Password feild is cleared
+2020-01-25 19:32:20,899 +0530 [main] INFO  (TC_DataproviderDDT_002.java:27) - Username is entered
+2020-01-25 19:32:20,980 +0530 [main] INFO  (TC_DataproviderDDT_002.java:29) - Password is entered
+2020-01-25 19:32:21,052 +0530 [main] INFO  (TC_DataproviderDDT_002.java:31) - Clicked on login button
+2020-01-25 19:32:21,060 +0530 [main] INFO  (TC_DataproviderDDT_002.java:33) - Alert text is captured
+2020-01-25 19:32:21,087 +0530 [main] INFO  (TC_DataproviderDDT_002.java:35) - Alert is handled
+2020-01-25 19:32:23,923 +0530 [main] INFO  (TC_DataproviderDDT_002.java:41) - LogIn_Test Test Passed
+2020-01-25 19:32:39,642 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:18) - Application URL is Launched
+2020-01-25 19:32:39,652 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:21) - we got Current page URL
+2020-01-25 19:32:39,730 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:23) - 1 is Clicked 
+2020-01-25 19:32:39,807 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:25) - + is Clicked 
+2020-01-25 19:32:39,892 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:27) - 6 is Clicked 
+2020-01-25 19:32:39,961 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:29) -  = is Clicked 
+2020-01-25 19:32:39,989 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:32) - Result is displayed
+2020-01-25 19:32:40,004 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:37) -  testCal Test Passed
+2020-01-25 19:32:59,637 +0530 [main] INFO  (TC_HandleCheckbox_004.java:18) - Application URL is Launched
+2020-01-25 19:32:59,648 +0530 [main] INFO  (TC_HandleCheckbox_004.java:23) - we got Current page URL
+2020-01-25 19:32:59,767 +0530 [main] INFO  (TC_HandleCheckbox_004.java:41) - testCheckbox Test Passed
+2020-01-25 19:33:24,686 +0530 [main] INFO  (TC_NavigationCommands_005.java:18) - Application URL is opend
+2020-01-25 19:33:24,699 +0530 [main] INFO  (TC_NavigationCommands_005.java:23) - The title of the page is stored
+2020-01-25 19:33:24,706 +0530 [main] INFO  (TC_NavigationCommands_005.java:28) - The title length is stored
+2020-01-25 19:33:24,716 +0530 [main] INFO  (TC_NavigationCommands_005.java:33) - we got Current page URL
+2020-01-25 19:33:38,975 +0530 [main] INFO  (TC_NavigationCommands_005.java:37) - Clicked on Gmail link in Google page
+2020-01-25 19:33:38,975 +0530 [main] INFO  (TC_NavigationCommands_005.java:39) - Gmail page is opend
+2020-01-25 19:33:39,770 +0530 [main] INFO  (TC_NavigationCommands_005.java:43) - Navigate back to Google page 
+2020-01-25 19:33:40,368 +0530 [main] INFO  (TC_NavigationCommands_005.java:47) - Navigate forward to gmail page
+2020-01-25 19:33:42,431 +0530 [main] INFO  (TC_NavigationCommands_005.java:51) - Navigate to Google page
+2020-01-25 19:33:43,164 +0530 [main] INFO  (TC_NavigationCommands_005.java:55) - Google page is refreshed
+2020-01-25 19:33:43,182 +0530 [main] INFO  (TC_NavigationCommands_005.java:61) - testBrowsercmds Test Passed
+2020-01-25 19:33:59,143 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:20) - Application URL is Launched
+2020-01-25 19:33:59,155 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:25) - The title of the page is stored
+2020-01-25 19:33:59,167 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:30) - The title length is stored
+2020-01-25 19:33:59,178 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:36) - we got Current page URL
+2020-01-25 19:33:59,194 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:42) - Stored the Domain name of the current url
+2020-01-25 19:33:59,328 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:47) - First name entered
+2020-01-25 19:33:59,425 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:49) - Second name entered
+2020-01-25 19:33:59,540 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:51) - Email entered
+2020-01-25 19:33:59,653 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:53) - Mobile number entered
+2020-01-25 19:33:59,769 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:55) - Company name entered
+2020-01-25 19:33:59,808 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:62) - Clicked on Submit button
+2020-01-25 19:33:59,818 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:65) - Captured the alert Text
+2020-01-25 19:33:59,827 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:68) - Alert handled
+2020-01-25 19:33:59,827 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:69) - Required Action Completed Successfully
+2020-01-25 19:34:02,601 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:90) - testDiffBetClickAndSubmit Test Passed
+2020-01-25 19:34:17,957 +0530 [main] INFO  (TC_CaptureScreenShot_008.java:20) - Application URL is Launched
+2020-01-25 19:34:17,967 +0530 [main] INFO  (TC_CaptureScreenShot_008.java:25) - The title of the page is stored
+2020-01-25 19:34:17,983 +0530 [main] INFO  (TC_CaptureScreenShot_008.java:30) - The title length is stored
+2020-01-25 19:34:17,994 +0530 [main] INFO  (TC_CaptureScreenShot_008.java:36) - we got Current page URL
+2020-01-25 19:34:18,005 +0530 [main] INFO  (TC_CaptureScreenShot_008.java:42) - Stored the Domain name of the current url
+2020-01-25 19:34:18,719 +0530 [main] INFO  (TC_CaptureScreenShot_008.java:71) - testCaptureScreenshot Test Passed
+2020-01-25 19:34:34,292 +0530 [main] INFO  (TC_GeneratingMouseHoverEventOnMainMenuToClickOnSubMenu_009.java:23) - Application URL is Launched
+2020-01-25 19:34:34,306 +0530 [main] INFO  (TC_GeneratingMouseHoverEventOnMainMenuToClickOnSubMenu_009.java:28) - The title of the page is stored
+2020-01-25 19:34:34,319 +0530 [main] INFO  (TC_GeneratingMouseHoverEventOnMainMenuToClickOnSubMenu_009.java:33) - The title length is stored
+2020-01-25 19:34:34,330 +0530 [main] INFO  (TC_GeneratingMouseHoverEventOnMainMenuToClickOnSubMenu_009.java:39) - we got Current page URL
+2020-01-25 19:34:34,354 +0530 [main] INFO  (TC_GeneratingMouseHoverEventOnMainMenuToClickOnSubMenu_009.java:45) - Stored the Domain name of the current url
+2020-01-25 19:34:36,993 +0530 [main] INFO  (TC_GeneratingMouseHoverEventOnMainMenuToClickOnSubMenu_009.java:75) - testGeneratingMouseHoverEventOnMainMenuToClickOnSubMenu Test Passed
+2020-01-25 19:34:53,751 +0530 [main] INFO  (TC_HandlingMultipleBrowserWindows_010.java:20) - Application URL is Launched
+2020-01-25 19:34:53,758 +0530 [main] INFO  (TC_HandlingMultipleBrowserWindows_010.java:25) - The title of the page is stored
+2020-01-25 19:34:53,767 +0530 [main] INFO  (TC_HandlingMultipleBrowserWindows_010.java:30) - The title length is stored
+2020-01-25 19:34:53,778 +0530 [main] INFO  (TC_HandlingMultipleBrowserWindows_010.java:36) - we got Current page URL
+2020-01-25 19:34:53,790 +0530 [main] INFO  (TC_HandlingMultipleBrowserWindows_010.java:42) - Stored the Domain name of the current url
+2020-01-25 19:35:19,141 +0530 [main] INFO  (TC_HandlingMultipleBrowserWindows_010.java:106) - testHandlingMultipleBrowserWindows Test Passed
+2020-01-25 19:35:20,601 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:35:20,604 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2020-01-25 19:35:20,608 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("index.ftl"): Found
+2020-01-25 19:35:20,610 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2020-01-25 19:35:21,091 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:35:21,092 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2020-01-25 19:35:21,093 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("head.ftl"): Found
+2020-01-25 19:35:21,094 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2020-01-25 19:35:21,101 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:35:21,104 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2020-01-25 19:35:21,105 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2020-01-25 19:35:21,105 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2020-01-25 19:35:21,133 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:35:21,135 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2020-01-25 19:35:21,136 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2020-01-25 19:35:21,136 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2020-01-25 19:35:21,163 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:35:21,166 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2020-01-25 19:35:21,168 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2020-01-25 19:35:21,170 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2020-01-25 19:35:21,201 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:35:21,202 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2020-01-25 19:35:21,203 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2020-01-25 19:35:21,204 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2020-01-25 19:35:21,243 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:35:21,253 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:35:21,258 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:35:21,262 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:35:21,267 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:35:21,271 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:35:21,274 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:35:21,279 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:35:21,285 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:35:21,287 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:35:21,290 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:35:21,292 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:35:21,296 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2020-01-25 19:35:21,298 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2020-01-25 19:35:21,299 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2020-01-25 19:35:21,309 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:35:21,310 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2020-01-25 19:35:21,315 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2020-01-25 19:35:21,317 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2020-01-25 19:35:21,324 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:35:21,325 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2020-01-25 19:35:21,325 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2020-01-25 19:35:21,325 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2020-01-25 19:35:21,332 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:35:21,332 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2020-01-25 19:35:21,333 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2020-01-25 19:35:21,334 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2020-01-25 19:35:21,357 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:35:21,358 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2020-01-25 19:35:21,358 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2020-01-25 19:35:21,359 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2020-01-25 19:36:23,632 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:21) - Application URL is Launched
+2020-01-25 19:36:23,734 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:26) - The title of the page is stored
+2020-01-25 19:36:23,760 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:31) - The title length is stored
+2020-01-25 19:36:23,774 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:37) - we got Current page URL
+2020-01-25 19:36:23,791 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:43) - Stored the Domain name of the current url
+2020-01-25 19:36:23,838 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:63) - Located Element which we want to drag
+2020-01-25 19:36:23,901 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:68) - Stored text of dragged element
+2020-01-25 19:36:23,924 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:72) - Located Element where we want to drop
+2020-01-25 19:36:24,193 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:81) - Required Action completed Successfully
+2020-01-25 19:36:24,214 +0530 [main] INFO  (TC_DragAndDropAnElement_001.java:106) - dragAndDrop Test Passed
+2020-01-25 19:36:38,524 +0530 [main] INFO  (TC_DataproviderDDT_002.java:16) - Application URL is launched
+2020-01-25 19:36:38,541 +0530 [main] INFO  (TC_DataproviderDDT_002.java:20) - we got Current page URL
+2020-01-25 19:36:38,653 +0530 [main] INFO  (TC_DataproviderDDT_002.java:23) - User id feild is cleared
+2020-01-25 19:36:38,719 +0530 [main] INFO  (TC_DataproviderDDT_002.java:25) - Password feild is cleared
+2020-01-25 19:36:38,925 +0530 [main] INFO  (TC_DataproviderDDT_002.java:27) - Username is entered
+2020-01-25 19:36:39,036 +0530 [main] INFO  (TC_DataproviderDDT_002.java:29) - Password is entered
+2020-01-25 19:36:39,125 +0530 [main] INFO  (TC_DataproviderDDT_002.java:31) - Clicked on login button
+2020-01-25 19:36:39,143 +0530 [main] INFO  (TC_DataproviderDDT_002.java:33) - Alert text is captured
+2020-01-25 19:36:39,189 +0530 [main] INFO  (TC_DataproviderDDT_002.java:35) - Alert is handled
+2020-01-25 19:36:42,436 +0530 [main] INFO  (TC_DataproviderDDT_002.java:41) - LogIn_Test Test Passed
+2020-01-25 19:36:46,444 +0530 [main] INFO  (TC_DataproviderDDT_002.java:16) - Application URL is launched
+2020-01-25 19:36:46,453 +0530 [main] INFO  (TC_DataproviderDDT_002.java:20) - we got Current page URL
+2020-01-25 19:36:46,507 +0530 [main] INFO  (TC_DataproviderDDT_002.java:23) - User id feild is cleared
+2020-01-25 19:36:46,562 +0530 [main] INFO  (TC_DataproviderDDT_002.java:25) - Password feild is cleared
+2020-01-25 19:36:46,652 +0530 [main] INFO  (TC_DataproviderDDT_002.java:27) - Username is entered
+2020-01-25 19:36:46,743 +0530 [main] INFO  (TC_DataproviderDDT_002.java:29) - Password is entered
+2020-01-25 19:36:46,806 +0530 [main] INFO  (TC_DataproviderDDT_002.java:31) - Clicked on login button
+2020-01-25 19:36:46,815 +0530 [main] INFO  (TC_DataproviderDDT_002.java:33) - Alert text is captured
+2020-01-25 19:36:46,849 +0530 [main] INFO  (TC_DataproviderDDT_002.java:35) - Alert is handled
+2020-01-25 19:36:51,749 +0530 [main] INFO  (TC_DataproviderDDT_002.java:41) - LogIn_Test Test Passed
+2020-01-25 19:36:54,815 +0530 [main] INFO  (TC_DataproviderDDT_002.java:16) - Application URL is launched
+2020-01-25 19:36:54,833 +0530 [main] INFO  (TC_DataproviderDDT_002.java:20) - we got Current page URL
+2020-01-25 19:36:54,896 +0530 [main] INFO  (TC_DataproviderDDT_002.java:23) - User id feild is cleared
+2020-01-25 19:36:54,951 +0530 [main] INFO  (TC_DataproviderDDT_002.java:25) - Password feild is cleared
+2020-01-25 19:36:55,052 +0530 [main] INFO  (TC_DataproviderDDT_002.java:27) - Username is entered
+2020-01-25 19:36:55,131 +0530 [main] INFO  (TC_DataproviderDDT_002.java:29) - Password is entered
+2020-01-25 19:36:55,214 +0530 [main] INFO  (TC_DataproviderDDT_002.java:31) - Clicked on login button
+2020-01-25 19:36:55,223 +0530 [main] INFO  (TC_DataproviderDDT_002.java:33) - Alert text is captured
+2020-01-25 19:36:55,252 +0530 [main] INFO  (TC_DataproviderDDT_002.java:35) - Alert is handled
+2020-01-25 19:36:58,170 +0530 [main] INFO  (TC_DataproviderDDT_002.java:41) - LogIn_Test Test Passed
+2020-01-25 19:37:02,077 +0530 [main] INFO  (TC_DataproviderDDT_002.java:16) - Application URL is launched
+2020-01-25 19:37:02,107 +0530 [main] INFO  (TC_DataproviderDDT_002.java:20) - we got Current page URL
+2020-01-25 19:37:02,207 +0530 [main] INFO  (TC_DataproviderDDT_002.java:23) - User id feild is cleared
+2020-01-25 19:37:02,279 +0530 [main] INFO  (TC_DataproviderDDT_002.java:25) - Password feild is cleared
+2020-01-25 19:37:02,449 +0530 [main] INFO  (TC_DataproviderDDT_002.java:27) - Username is entered
+2020-01-25 19:37:02,559 +0530 [main] INFO  (TC_DataproviderDDT_002.java:29) - Password is entered
+2020-01-25 19:37:02,659 +0530 [main] INFO  (TC_DataproviderDDT_002.java:31) - Clicked on login button
+2020-01-25 19:37:02,669 +0530 [main] INFO  (TC_DataproviderDDT_002.java:33) - Alert text is captured
+2020-01-25 19:37:02,692 +0530 [main] INFO  (TC_DataproviderDDT_002.java:35) - Alert is handled
+2020-01-25 19:37:05,669 +0530 [main] INFO  (TC_DataproviderDDT_002.java:41) - LogIn_Test Test Passed
+2020-01-25 19:37:20,457 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:18) - Application URL is Launched
+2020-01-25 19:37:20,491 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:21) - we got Current page URL
+2020-01-25 19:37:20,705 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:23) - 1 is Clicked 
+2020-01-25 19:37:20,816 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:25) - + is Clicked 
+2020-01-25 19:37:20,915 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:27) - 6 is Clicked 
+2020-01-25 19:37:21,014 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:29) -  = is Clicked 
+2020-01-25 19:37:21,048 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:32) - Result is displayed
+2020-01-25 19:37:21,060 +0530 [main] INFO  (TC_IEBrowserSampleTest_003.java:37) -  testCal Test Passed
+2020-01-25 19:37:35,226 +0530 [main] INFO  (TC_HandleCheckbox_004.java:18) - Application URL is Launched
+2020-01-25 19:37:35,235 +0530 [main] INFO  (TC_HandleCheckbox_004.java:23) - we got Current page URL
+2020-01-25 19:37:35,352 +0530 [main] INFO  (TC_HandleCheckbox_004.java:41) - testCheckbox Test Passed
+2020-01-25 19:37:49,272 +0530 [main] INFO  (TC_NavigationCommands_005.java:18) - Application URL is opend
+2020-01-25 19:37:49,288 +0530 [main] INFO  (TC_NavigationCommands_005.java:23) - The title of the page is stored
+2020-01-25 19:37:49,302 +0530 [main] INFO  (TC_NavigationCommands_005.java:28) - The title length is stored
+2020-01-25 19:37:49,317 +0530 [main] INFO  (TC_NavigationCommands_005.java:33) - we got Current page URL
+2020-01-25 19:37:55,823 +0530 [main] INFO  (TC_NavigationCommands_005.java:37) - Clicked on Gmail link in Google page
+2020-01-25 19:37:55,824 +0530 [main] INFO  (TC_NavigationCommands_005.java:39) - Gmail page is opend
+2020-01-25 19:37:56,284 +0530 [main] INFO  (TC_NavigationCommands_005.java:43) - Navigate back to Google page 
+2020-01-25 19:37:56,632 +0530 [main] INFO  (TC_NavigationCommands_005.java:47) - Navigate forward to gmail page
+2020-01-25 19:37:57,944 +0530 [main] INFO  (TC_NavigationCommands_005.java:51) - Navigate to Google page
+2020-01-25 19:37:57,956 +0530 [main] INFO  (TC_NavigationCommands_005.java:55) - Google page is refreshed
+2020-01-25 19:37:59,580 +0530 [main] INFO  (TC_NavigationCommands_005.java:61) - testBrowsercmds Test Passed
+2020-01-25 19:38:15,181 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:20) - Application URL is Launched
+2020-01-25 19:38:15,195 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:25) - The title of the page is stored
+2020-01-25 19:38:15,206 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:30) - The title length is stored
+2020-01-25 19:38:15,216 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:36) - we got Current page URL
+2020-01-25 19:38:15,229 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:42) - Stored the Domain name of the current url
+2020-01-25 19:38:15,390 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:47) - First name entered
+2020-01-25 19:38:15,506 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:49) - Second name entered
+2020-01-25 19:38:15,627 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:51) - Email entered
+2020-01-25 19:38:15,827 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:53) - Mobile number entered
+2020-01-25 19:38:16,048 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:55) - Company name entered
+2020-01-25 19:38:16,122 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:62) - Clicked on Submit button
+2020-01-25 19:38:16,146 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:65) - Captured the alert Text
+2020-01-25 19:38:16,193 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:68) - Alert handled
+2020-01-25 19:38:16,194 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:69) - Required Action Completed Successfully
+2020-01-25 19:38:18,846 +0530 [main] INFO  (TC_DiifBetweenSubmitAndClick_007.java:90) - testDiffBetClickAndSubmit Test Passed
+2020-01-25 19:38:34,974 +0530 [main] INFO  (TC_CaptureScreenShot_008.java:20) - Application URL is Launched
+2020-01-25 19:38:34,990 +0530 [main] INFO  (TC_CaptureScreenShot_008.java:25) - The title of the page is stored
+2020-01-25 19:38:34,999 +0530 [main] INFO  (TC_CaptureScreenShot_008.java:30) - The title length is stored
+2020-01-25 19:38:35,010 +0530 [main] INFO  (TC_CaptureScreenShot_008.java:36) - we got Current page URL
+2020-01-25 19:38:35,022 +0530 [main] INFO  (TC_CaptureScreenShot_008.java:42) - Stored the Domain name of the current url
+2020-01-25 19:38:35,611 +0530 [main] INFO  (TC_CaptureScreenShot_008.java:71) - testCaptureScreenshot Test Passed
+2020-01-25 19:38:51,560 +0530 [main] INFO  (TC_GeneratingMouseHoverEventOnMainMenuToClickOnSubMenu_009.java:23) - Application URL is Launched
+2020-01-25 19:38:51,588 +0530 [main] INFO  (TC_GeneratingMouseHoverEventOnMainMenuToClickOnSubMenu_009.java:28) - The title of the page is stored
+2020-01-25 19:38:51,619 +0530 [main] INFO  (TC_GeneratingMouseHoverEventOnMainMenuToClickOnSubMenu_009.java:33) - The title length is stored
+2020-01-25 19:38:51,648 +0530 [main] INFO  (TC_GeneratingMouseHoverEventOnMainMenuToClickOnSubMenu_009.java:39) - we got Current page URL
+2020-01-25 19:38:51,661 +0530 [main] INFO  (TC_GeneratingMouseHoverEventOnMainMenuToClickOnSubMenu_009.java:45) - Stored the Domain name of the current url
+2020-01-25 19:38:53,954 +0530 [main] INFO  (TC_GeneratingMouseHoverEventOnMainMenuToClickOnSubMenu_009.java:75) - testGeneratingMouseHoverEventOnMainMenuToClickOnSubMenu Test Passed
+2020-01-25 19:39:08,972 +0530 [main] INFO  (TC_HandlingMultipleBrowserWindows_010.java:20) - Application URL is Launched
+2020-01-25 19:39:09,054 +0530 [main] INFO  (TC_HandlingMultipleBrowserWindows_010.java:25) - The title of the page is stored
+2020-01-25 19:39:09,158 +0530 [main] INFO  (TC_HandlingMultipleBrowserWindows_010.java:30) - The title length is stored
+2020-01-25 19:39:09,229 +0530 [main] INFO  (TC_HandlingMultipleBrowserWindows_010.java:36) - we got Current page URL
+2020-01-25 19:39:09,265 +0530 [main] INFO  (TC_HandlingMultipleBrowserWindows_010.java:42) - Stored the Domain name of the current url
+2020-01-25 19:39:35,175 +0530 [main] INFO  (TC_HandlingMultipleBrowserWindows_010.java:106) - testHandlingMultipleBrowserWindows Test Passed
+2020-01-25 19:39:36,305 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:39:36,308 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2020-01-25 19:39:36,317 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("index.ftl"): Found
+2020-01-25 19:39:36,318 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2020-01-25 19:39:37,054 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:39:37,055 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2020-01-25 19:39:37,056 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("head.ftl"): Found
+2020-01-25 19:39:37,057 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2020-01-25 19:39:37,067 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:39:37,068 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2020-01-25 19:39:37,069 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2020-01-25 19:39:37,070 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2020-01-25 19:39:37,090 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:39:37,091 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2020-01-25 19:39:37,134 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2020-01-25 19:39:37,134 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2020-01-25 19:39:37,158 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:39:37,160 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2020-01-25 19:39:37,162 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2020-01-25 19:39:37,164 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2020-01-25 19:39:37,206 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:39:37,208 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2020-01-25 19:39:37,209 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2020-01-25 19:39:37,222 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2020-01-25 19:39:37,275 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:39:37,277 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:39:37,281 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:39:37,286 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:39:37,290 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:39:37,293 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:39:37,295 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:39:37,305 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:39:37,307 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:39:37,309 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:39:37,311 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-01-25 19:39:37,319 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:39:37,321 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2020-01-25 19:39:37,324 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2020-01-25 19:39:37,325 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2020-01-25 19:39:37,337 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:39:37,339 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2020-01-25 19:39:37,341 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2020-01-25 19:39:37,342 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2020-01-25 19:39:37,356 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:39:37,356 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2020-01-25 19:39:37,357 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2020-01-25 19:39:37,357 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2020-01-25 19:39:37,369 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:39:37,370 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2020-01-25 19:39:37,371 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2020-01-25 19:39:37,372 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2020-01-25 19:39:37,402 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-25 19:39:37,403 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2020-01-25 19:39:37,404 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2020-01-25 19:39:37,404 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/VenkatakrishnaY/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"

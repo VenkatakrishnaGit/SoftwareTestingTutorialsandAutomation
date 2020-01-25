@@ -7,13 +7,13 @@
   <test thread-count="5" name=" Ecommerce Application Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.STTA.testCases.TC_CaptureScreenShot_008">
+      <class name="com.STTA.testCases.TC_DragAndDropAnElement_001">
         <methods>
           <include name="tearDown"/>
           <include name="setUp"/>
-          <include name="testCaptureScreenshot"/>
+          <include name="dragAndDrop"/>
         </methods>
-      </class> <!-- com.STTA.testCases.TC_CaptureScreenShot_008 -->
+      </class> <!-- com.STTA.testCases.TC_DragAndDropAnElement_001 -->
     </classes>
   </test> <!--  Ecommerce Application Test(failed) -->
 </suite> <!-- Failed suite [SoftwareTestingTutorialsandAutomation] -->
