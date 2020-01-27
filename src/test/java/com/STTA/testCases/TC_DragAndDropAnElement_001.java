@@ -14,8 +14,8 @@ public class TC_DragAndDropAnElement_001 extends BaseClass{
 	
 	@Test
 	 public void dragAndDrop() throws IOException {
-		//Application Launch
 		
+		//Application Launch
 		String url = "http://only-testing-blog.blogspot.in/2014/09/drag-and-drop.html";
 		driver.get(url);
 		logger.info("Application URL is Launched");
@@ -33,7 +33,6 @@ public class TC_DragAndDropAnElement_001 extends BaseClass{
 		//current URL of the page
 		String curl = driver.getCurrentUrl();
 	    System.out.println("This is the Page Current URL: "+curl);
-	    
 	    logger.info("we got Current page URL");
 	    
 	    //Get domain name using java script executor
@@ -41,6 +40,8 @@ public class TC_DragAndDropAnElement_001 extends BaseClass{
 	    String CurrentURLUsingJS=(String)javascript.executeScript("return document.domain");
 	    System.out.println("My Current URL domain name is: "+CurrentURLUsingJS);
 	    logger.info("Stored the Domain name of the current url");
+	    
+	    
 	    
 	    /**current page source
 	    String ps = driver.getPageSource();
@@ -54,7 +55,7 @@ public class TC_DragAndDropAnElement_001 extends BaseClass{
 	    
 	    
 	    
-	    
+	    //From Here Actual test Start
 		
 	  //Locate element which you wants to drag.
 	 // WebElement dragElementFrom = driver.findElement(By.xpath("//div[@id='dragdiv']"));
