@@ -52,6 +52,8 @@ public class TC_HighlightElement_013 extends BaseClass{
 			    driver.findElement(By.cssSelector("#submitButton")).click();
 			    logger.info("subbmitted button is highlited and clicked");
 			    
+			    logger.info("Required Action completed Successfully");
+			    
 			    
 			  //below code for URL Verification
 		        if (curl.equals(url)){ 

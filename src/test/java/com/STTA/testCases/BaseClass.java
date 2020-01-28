@@ -24,9 +24,13 @@ import org.testng.annotations.DataProvider;
 import org.testng.annotations.Parameters;
 
 
+
+
 public class BaseClass {
-	
-	
+	/*
+	 * com.STTA.utilities.ReadConfig readconfig=new com.STTA.utilities.ReadConfig();
+	 * public String baseURL=readconfig.getApplicationURL();
+	 */
 	public static WebDriver driver;
 	public static Logger logger;
 	//public static ATUTestRecorder recorder;
@@ -65,6 +69,7 @@ public class BaseClass {
 		}
 		
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		 
 		
 		
 	}
@@ -119,6 +124,8 @@ public class BaseClass {
 		   javascript.executeScript("arguments[0].setAttribute('style', arguments[1]);", element, ""); 
 		   } 
 		  } 
+	
+	
 	
 	
 	

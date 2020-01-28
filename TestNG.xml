@@ -13,14 +13,13 @@
 		
 		<classes>
 		
-		 
-		                     <class name="com.STTA.testCases.TC_DragAndDropAnElement_001"/>
+		 		                     <class name="com.STTA.testCases.TC_DragAndDropAnElement_001"/>
 			          <class name="com.STTA.testCases.TC_DataproviderDDT_002"/>
 			          <class name="com.STTA.testCases.TC_IEBrowserSampleTest_003"/>
 			           <class name="com.STTA.testCases.TC_HandleCheckbox_004"/>
 			     <class name="com.STTA.testCases.TC_NavigationCommands_005"/>
-			   <!--  <class name="com.STTA.testCases.TC_CheckBoxRadioButtonOperations_006"/> -->
-			   <class name="com.STTA.testCases.TC_DiifBetweenSubmitAndClick_007"/>
+			   <!--   <class name="com.STTA.testCases.TC_CheckBoxRadioButtonOperations_006"/>-->
+			   
 	
 			    <class name="com.STTA.testCases.TC_CaptureScreenShot_008"/> 
 			
@@ -29,7 +28,22 @@
 		
 			  <class name ="com.STTA.testCases.TC_HandlingJSAlerts_012"/>
 			  <class name ="com.STTA.testCases.TC_HighlightElement_013"/>
-			<class name ="com.STTA.testCases.TC_ReadingFontProperties_014"/>
+			<class name ="com.STTA.testCases.TC_ReadingFontProperties_014"/> 
+			 
+			
+			 <class name ="com.STTA.testCases.TC_DiffBetFindElementAndFindElements_015"/>
+			<class name="com.STTA.testCases.TC_DiifBetweenSubmitAndClick_007"/>
+			<class name ="com.STTA.testCases.TC_ObjectRepositoryUsingPropertiesFile_016"/>
+			<class name="com.STTA.testCases.TC_GetOrExtractAllLinksFromWebPage_017"/>
+			
+			
+			 
+			 
+			
+			 
+			 
+			
+			
 			
 			
 			

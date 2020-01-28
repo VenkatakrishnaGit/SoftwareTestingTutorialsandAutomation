@@ -1,6 +1,8 @@
 package com.STTA.testCases;
 
+import java.io.FileInputStream;
 import java.io.IOException;
+import java.util.Properties;
 
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
@@ -42,10 +44,20 @@ public class TC_DiifBetweenSubmitAndClick_007 extends BaseClass{
 			    logger.info("Stored the Domain name of the current url");
 			    
 			    //Perform actual Test 
+			    
+			  //create Object of Properties class
+			    Properties obj = new Properties();
+			    
+			    //Create Object of FileInputStream Class. Pass file path.
+			    FileInputStream fis = new FileInputStream(System.getProperty("user.dir")+"\\src\\test\\java\\com\\STTA\\ObjectRepo\\objects.properties");
+			   
+			    //Pass object reference objfile to load method of Properties object.
+			    obj.load(fis);
+			    
 			    //Enter data in respective feilds
-			    driver.findElement(By.xpath("//input[@name='FirstName']")).sendKeys("MyFName");
+			    driver.findElement(By.xpath(obj.getProperty("myfname"))).sendKeys("MyFName");
 			    logger.info("First name entered");
-			    driver.findElement(By.xpath("//input[@name='LastName']")).sendKeys("MyLName");
+			    driver.findElement(By.xpath(obj.getProperty("mylname"))).sendKeys("MyLName");
 			    logger.info("Second name entered");
 			    driver.findElement(By.xpath("//input[@name='EmailID']")).sendKeys("My Email ID");
 			    logger.info("Email entered");
