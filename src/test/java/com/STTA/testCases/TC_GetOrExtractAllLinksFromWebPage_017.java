@@ -1,7 +1,9 @@
 package com.STTA.testCases;
 
+import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.List;
+import java.util.Properties;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
@@ -14,6 +16,8 @@ public class TC_GetOrExtractAllLinksFromWebPage_017 extends BaseClass{
 	@Test
 	public void testGetOrExtractAllLinksFromWebPage() throws Exception
 	{
+		
+		
 		//Application Launch
 				String url = "http://only-testing-blog.blogspot.in/2014/01/textbox.html";
 				driver.get(url);
@@ -40,10 +44,23 @@ public class TC_GetOrExtractAllLinksFromWebPage_017 extends BaseClass{
 			    System.out.println("My Current URL domain name is: "+CurrentURLUsingJS);
 			    logger.info("Stored the Domain name of the current url");
 			    
-			    //From Here Actual Test start
+			    
+			  //From Here Actual Test start
+			    
+			  //create Object of Properties class
+			    Properties obj = new Properties();
+			    
+			    //Create Object of FileInputStream Class. Pass file path.
+			    FileInputStream fis = new FileInputStream(System.getProperty("user.dir")+"\\src\\test\\java\\com\\STTA\\ObjectRepo\\objects.properties");
+			   
+			    //Pass object reference objfile to load method of Properties object.
+			    obj.load(fis);
+			    
+			    
 			    try {
 			    	
-			    	List<WebElement> no = driver.findElements(By.tagName("a"));
+			    	//List<WebElement> no = driver.findElements(By.tagName("a"));
+			    	List<WebElement> no = driver.findElements(By.tagName(obj.getProperty("alllinks")));
 			        int noofLinks = no.size();
 			        logger.info("No of Links are captured");
 			        System.out.println(noofLinks);

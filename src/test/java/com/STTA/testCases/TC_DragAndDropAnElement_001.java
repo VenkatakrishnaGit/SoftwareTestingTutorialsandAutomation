@@ -17,7 +17,7 @@ import com.STTA.pageObjects.DragAndDropPage;
 public class TC_DragAndDropAnElement_001 extends BaseClass {
 
 	@Test
-	public void dragAndDrop() throws IOException {
+	public void testdragAndDrop() throws IOException {
 
 		
 		  //Application Launch 
@@ -97,7 +97,33 @@ public class TC_DragAndDropAnElement_001 extends BaseClass {
 				 
 
 		
-
+				//below code for URL Verification
+			        if (curl.equals(url)){ 
+			        	 System.out.println("Verification Successful - The correct Url is opened.");
+			        	 }
+			        	 else {
+			        	 System.out.println("Verification Failed - An incorrect Url is opened."); 
+			        	 
+			        	 //In case of Fail, you like to print the actual and expected URL for the record purpose 
+			        	 System.out.println("Actual URL is : " + curl); 
+			        	 System.out.println("Expected URL is : " + url);
+			        	
+			        	 }
+			        
+			      //below code for Title Verification once action Completed if it is wrong we Captured the Screen shot
+			        
+			        if(driver.getTitle().equals("Only Testing: Drag and Drop"))
+					{
+						Assert.assertTrue(true);
+						logger.info("testdragAndDrop Test Passed");
+					}
+					else
+					{
+						captureScreen(driver,"testdragAndDrop");
+						Assert.assertTrue(false);
+						logger.info("testdragAndDrop Test failed");
+					} 
+			        
 		
 }
 }

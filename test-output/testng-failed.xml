@@ -7,13 +7,13 @@
   <test thread-count="5" name=" Ecommerce Application Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.STTA.testCases.TC_DiffBetFindElementAndFindElements_015">
+      <class name="com.STTA.testCases.TC_CheckBoxRadioButtonOperations_006">
         <methods>
+          <include name="cbAndRbTest"/>
           <include name="tearDown"/>
           <include name="setUp"/>
-          <include name="testDiffBetFindElementAndFindElements"/>
         </methods>
-      </class> <!-- com.STTA.testCases.TC_DiffBetFindElementAndFindElements_015 -->
+      </class> <!-- com.STTA.testCases.TC_CheckBoxRadioButtonOperations_006 -->
     </classes>
   </test> <!--  Ecommerce Application Test(failed) -->
 </suite> <!-- Failed suite [SoftwareTestingTutorialsandAutomation] -->
