@@ -68,6 +68,10 @@ public class TC_ExtractingAllTextFieldsFromWebPage_018 extends BaseClass{
 				  Thread.sleep(4000);
 				  
 				  
+					  
+				  
+				  
+				  
 
 				    //below code for URL Verification
 			        if (curl.equals(url)){ 
@@ -97,5 +101,13 @@ public class TC_ExtractingAllTextFieldsFromWebPage_018 extends BaseClass{
 					} 
 			        
 	}
+
+
+
+@Test
+public void testMethod()
+{
+	System.out.println("This is second Method Test in same Class ");
+}
 
 }

@@ -56,21 +56,22 @@
       <scope>test</scope>
     </dependency>
   
-  
+  <!-- Below dependency for Selenium Webdriver java to test the application -->
 	<dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-java</artifactId>
     <version>3.14.0</version>
 	</dependency>
 	
-
+<!-- Below dependency for TestNG to Generate reports and more -->
 	<dependency>
 	    <groupId>org.testng</groupId>
 	    <artifactId>testng</artifactId>
 	    <version>6.14.3</version>
 	    <scope>test</scope>
 	</dependency>
-
+	
+<!-- Below dependencys for Apache Poi to test the Data driven Testing by using XL sheet -->
   	<dependency>
 			<groupId>org.apache.poi</groupId>
 			<artifactId>poi</artifactId>
@@ -83,6 +84,8 @@
 			<artifactId>poi-ooxml</artifactId>
 			<version>3.17</version>
 		</dependency>
+		
+		<!-- Below dependency for generate Extent reports -->
   
   	<dependency>
 			<groupId>com.aventstack</groupId>
@@ -105,7 +108,7 @@
 		</dependency>	
 		
 		
-			
+		<!-- Below dependency for to generate the logs while testing the Application-->	
 		<dependency>
 		    <groupId>log4j</groupId>
 		    <artifactId>log4j</artifactId>
