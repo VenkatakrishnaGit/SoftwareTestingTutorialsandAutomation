@@ -15,8 +15,8 @@ public class TC_HighlightElement_013 extends BaseClass{
 	public void testHighlightElement() throws Exception
 	{
 		//Application Launch
-				String url = "http://only-testing-blog.blogspot.in/2013/11/new-test.html";
-				driver.get(url);
+				//String url = "http://only-testing-blog.blogspot.in/2013/11/new-test.html";
+				driver.get(baseURL);
 				logger.info("Application URL is Launched");
 				
 				//Title of the Webpage
@@ -56,7 +56,7 @@ public class TC_HighlightElement_013 extends BaseClass{
 			    
 			    
 			  //below code for URL Verification
-		        if (curl.equals(url)){ 
+		        if (curl.equals(baseURL)){ 
 		        	 System.out.println("Verification Successful - The correct Url is opened.");
 		        	 }
 		        	 else {
@@ -64,7 +64,7 @@ public class TC_HighlightElement_013 extends BaseClass{
 		        	 
 		        	 //In case of Fail, you like to print the actual and expected URL for the record purpose 
 		        	 System.out.println("Actual URL is : " + curl); 
-		        	 System.out.println("Expected URL is : " + url);
+		        	 System.out.println("Expected URL is : " + baseURL);
 		        	
 		        	 }
 		        

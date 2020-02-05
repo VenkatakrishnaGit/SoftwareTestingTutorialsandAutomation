@@ -31,6 +31,8 @@ public class BaseClass {
 	 * com.STTA.utilities.ReadConfig readconfig=new com.STTA.utilities.ReadConfig();
 	 * public String baseURL=readconfig.getApplicationURL();
 	 */
+	
+	public String baseURL="http://only-testing-blog.blogspot.in/2013/11/new-test.html";
 	public static WebDriver driver;
 	public static Logger logger;
 	//public static ATUTestRecorder recorder;
