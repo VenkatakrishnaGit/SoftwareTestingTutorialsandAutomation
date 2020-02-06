@@ -13,7 +13,7 @@
 		
 		<classes>
 		
-		 		                     <class name="com.STTA.testCases.TC_DragAndDropAnElement_001"/>
+		 		       <class name="com.STTA.testCases.TC_DragAndDropAnElement_001"/>
 			          <class name="com.STTA.testCases.TC_DataproviderDDT_002"/>
 			          <class name="com.STTA.testCases.TC_IEBrowserSampleTest_003"/>
 			           <class name="com.STTA.testCases.TC_HandleCheckbox_004"/>
