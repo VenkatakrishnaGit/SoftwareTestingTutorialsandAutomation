@@ -1,19 +1,157 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [SoftwareTestingTutorialsandAutomation]">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [SoftwareTestingTutorialsandAutomation]" parallel="tests">
   <listeners>
     <listener class-name="com.STTA.utilities.Reporting"/>
   </listeners>
-  <test thread-count="5" name=" Ecommerce Application Test(failed)">
-    <parameter name="browser" value="chrome"/>
+  <test thread-count="5" name=" Ecommerce Application Test in firefox(failed)" parallel="tests">
+    <parameter name="browser" value="firefox"/>
     <classes>
-      <class name="com.STTA.testCases.TC_CheckBoxRadioButtonOperations_006">
+      <class name="com.STTA.testCases.TC_HandlingJSAlerts_012">
         <methods>
-          <include name="cbAndRbTest"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="testHandlingJSAlerts"/>
+        </methods>
+      </class> <!-- com.STTA.testCases.TC_HandlingJSAlerts_012 -->
+      <class name="com.STTA.testCases.TC_NavigationCommands_005">
+        <methods>
+          <include name="tearDown"/>
+          <include name="testBrowsercmds"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.STTA.testCases.TC_NavigationCommands_005 -->
+      <class name="com.STTA.testCases.TC_DiifBetweenSubmitAndClick_007">
+        <methods>
+          <include name="testDiffBetClickAndSubmit"/>
           <include name="tearDown"/>
           <include name="setUp"/>
         </methods>
-      </class> <!-- com.STTA.testCases.TC_CheckBoxRadioButtonOperations_006 -->
+      </class> <!-- com.STTA.testCases.TC_DiifBetweenSubmitAndClick_007 -->
+      <class name="com.STTA.testCases.TC_ExtractingAllTextFieldsFromWebPage_018">
+        <methods>
+          <include name="testExtractingAllTextFieldsFromWebPage"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.STTA.testCases.TC_ExtractingAllTextFieldsFromWebPage_018 -->
+      <class name="com.STTA.testCases.TC_ParameterizationOrDataDrivenTesting_022">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="testDDTorParameterization"/>
+        </methods>
+      </class> <!-- com.STTA.testCases.TC_ParameterizationOrDataDrivenTesting_022 -->
+      <class name="com.STTA.testCases.TC_DataproviderDDT_002">
+        <methods>
+          <include name="LogIn_Test" invocation-numbers="1 2 3"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.STTA.testCases.TC_DataproviderDDT_002 -->
+      <class name="com.STTA.testCases.TC_GetOrExtractAllLinksFromWebPage_017">
+        <methods>
+          <include name="testGetOrExtractAllLinksFromWebPage"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.STTA.testCases.TC_GetOrExtractAllLinksFromWebPage_017 -->
+      <class name="com.STTA.testCases.TC_HighlightElement_013">
+        <methods>
+          <include name="tearDown"/>
+          <include name="testHighlightElement"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.STTA.testCases.TC_HighlightElement_013 -->
+      <class name="com.STTA.testCases.TC_HandlingMultipleBrowserWindows_010">
+        <methods>
+          <include name="testHandlingMultipleBrowserWindows"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.STTA.testCases.TC_HandlingMultipleBrowserWindows_010 -->
     </classes>
-  </test> <!--  Ecommerce Application Test(failed) -->
+  </test> <!--  Ecommerce Application Test in firefox(failed) -->
+  <test thread-count="5" name=" Ecommerce Application Test in Chrome(failed)" parallel="tests">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.STTA.testCases.TC_IEBrowserSampleTest_003">
+        <methods>
+          <include name="testCal"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.STTA.testCases.TC_IEBrowserSampleTest_003 -->
+      <class name="com.STTA.testCases.TC_HandlingJSAlerts_012">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="testHandlingJSAlerts"/>
+        </methods>
+      </class> <!-- com.STTA.testCases.TC_HandlingJSAlerts_012 -->
+      <class name="com.STTA.testCases.TC_ObjectRepositoryUsingPropertiesFile_016">
+        <methods>
+          <include name="testObjectRepositoryUsingPropertiesFile"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.STTA.testCases.TC_ObjectRepositoryUsingPropertiesFile_016 -->
+      <class name="com.STTA.testCases.TC_NavigationCommands_005">
+        <methods>
+          <include name="tearDown"/>
+          <include name="testBrowsercmds"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.STTA.testCases.TC_NavigationCommands_005 -->
+      <class name="com.STTA.testCases.TC_GeneratingMouseHoverEventOnMainMenuToClickOnSubMenu_009">
+        <methods>
+          <include name="testGeneratingMouseHoverEventOnMainMenuToClickOnSubMenu"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.STTA.testCases.TC_GeneratingMouseHoverEventOnMainMenuToClickOnSubMenu_009 -->
+      <class name="com.STTA.testCases.TC_HandleCheckbox_004">
+        <methods>
+          <include name="testCheckbox"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.STTA.testCases.TC_HandleCheckbox_004 -->
+      <class name="com.STTA.testCases.TC_ReadingFontProperties_014">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="testReadingFontProperties"/>
+        </methods>
+      </class> <!-- com.STTA.testCases.TC_ReadingFontProperties_014 -->
+      <class name="com.STTA.testCases.TC_DataproviderDDT_002">
+        <methods>
+          <include name="LogIn_Test" invocation-numbers="0 1 2 3"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.STTA.testCases.TC_DataproviderDDT_002 -->
+      <class name="com.STTA.testCases.TC_HighlightElement_013">
+        <methods>
+          <include name="tearDown"/>
+          <include name="testHighlightElement"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.STTA.testCases.TC_HighlightElement_013 -->
+      <class name="com.STTA.testCases.TC_CaptureScreenShot_008">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="testCaptureScreenshot"/>
+        </methods>
+      </class> <!-- com.STTA.testCases.TC_CaptureScreenShot_008 -->
+      <class name="com.STTA.testCases.TC_HandlingMultipleBrowserWindows_010">
+        <methods>
+          <include name="testHandlingMultipleBrowserWindows"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.STTA.testCases.TC_HandlingMultipleBrowserWindows_010 -->
+    </classes>
+  </test> <!--  Ecommerce Application Test in Chrome(failed) -->
 </suite> <!-- Failed suite [SoftwareTestingTutorialsandAutomation] -->

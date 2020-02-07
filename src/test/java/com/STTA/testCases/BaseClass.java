@@ -19,7 +19,9 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.testng.annotations.AfterClass;
+import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeClass;
+import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Parameters;
 
@@ -33,12 +35,16 @@ public class BaseClass {
 	 */
 	
 	public String baseURL="http://only-testing-blog.blogspot.in/2013/11/new-test.html";
+	
+	//Declared as public static to use same webdriver instance publicly
 	public static WebDriver driver;
+	
+	 //Declared as public static to use Logger class publicly
 	public static Logger logger;
 	//public static ATUTestRecorder recorder;
 	
 	@Parameters("browser")
-	@BeforeClass
+	@BeforeClass	
 	public void setUp(String br) 
 	{
 		//DateFormat dateFormat = new SimpleDateFormat("yy-MM-dd HH-mm-ss");
@@ -54,20 +60,26 @@ public class BaseClass {
 		
 		if(br.equals("chrome"))
 		{
-		System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")+"\\Drivers\\chromedriver.exe");
-		driver = new ChromeDriver(); 
+			System.out.println("Test Starts Running In Chrome Browser.");
+		    System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")+"\\Drivers\\chromedriver.exe");
+		    driver = new ChromeDriver(); 
+		
 		
 		driver.manage().window().maximize();
 		}
 		else if(br.equals("firefox"))
 		{
+			System.out.println("Test Starts Running In Firefox Browser.");
 			System.setProperty("webdriver.gecko.driver", System.getProperty("user.dir")+"\\Drivers\\geckodriver.exe");
-			driver = new FirefoxDriver(); 
+			driver = new FirefoxDriver();
+			
 		}
 		else if(br.equals("ie"))
 		{
+			System.out.println("Test Starts Running In InternetExplorer Browser.");
 			System.setProperty("webdriver.ie.driver", System.getProperty("user.dir")+"\\Drivers\\IEDriverServer.exe");
 			driver = new InternetExplorerDriver();
+			
 		}
 		
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
@@ -83,6 +95,13 @@ public class BaseClass {
 		//To stop video recording.
 		 // recorder.stop();
 	}
+	
+	
+	//Data provider Is used for supplying 2 different values to Search_Test method.
+	 @DataProvider(name="search-data")
+	 public Object[][] dataProviderTest(){
+	     return new Object[][]{{"selenium webdriver tutorial"},{"auto s"}};
+	 }
 	
 	//Below method for Capture the sreenshot when script is failed
 	public void captureScreen(WebDriver driver, String tname) throws IOException {
