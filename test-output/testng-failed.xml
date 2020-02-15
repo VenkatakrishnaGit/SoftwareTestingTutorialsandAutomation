@@ -4,9 +4,16 @@
   <listeners>
     <listener class-name="com.STTA.utilities.Reporting"/>
   </listeners>
-  <test thread-count="5" name=" Ecommerce Application Test(failed)">
+  <test thread-count="5" name=" Ecommerce Application Test (failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
+      <class name="com.STTA.testCases.TC_DragAndDropElementByPixelXY_026">
+        <methods>
+          <include name="testDragAndDropElementByPixelXY"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.STTA.testCases.TC_DragAndDropElementByPixelXY_026 -->
       <class name="com.STTA.testCases.TC_HandleAjaxAutoSuggestDropList_021">
         <methods>
           <include name="tearDown"/>
@@ -14,13 +21,6 @@
           <include name="Search_Test" invocation-numbers="0 1"/>
         </methods>
       </class> <!-- com.STTA.testCases.TC_HandleAjaxAutoSuggestDropList_021 -->
-      <class name="com.STTA.testCases.TC_CheckBoxRadioButtonOperations_006">
-        <methods>
-          <include name="cbAndRbTest"/>
-          <include name="tearDown"/>
-          <include name="setUp"/>
-        </methods>
-      </class> <!-- com.STTA.testCases.TC_CheckBoxRadioButtonOperations_006 -->
     </classes>
-  </test> <!--  Ecommerce Application Test(failed) -->
+  </test> <!--  Ecommerce Application Test (failed) -->
 </suite> <!-- Failed suite [SoftwareTestingTutorialsandAutomation] -->

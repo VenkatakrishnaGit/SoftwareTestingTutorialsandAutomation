@@ -21,7 +21,7 @@ public class TC_DragAndDropAnElement_001 extends BaseClass {
 
 		
 		  //Application Launch 
-		String url =
+		   String url =
 		  "http://only-testing-blog.blogspot.in/2014/09/drag-and-drop.html";
 		  driver.get(url); 
 		  logger.info("Application URL is Launched");

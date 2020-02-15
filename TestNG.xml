@@ -23,7 +23,7 @@
 			           
 			          <class name="com.STTA.testCases.TC_NavigationCommands_005"/>
 			     
-			   <!--   <class name="com.STTA.testCases.TC_CheckBoxRadioButtonOperations_006"/> -->
+			    
 			   
 			    <class name="com.STTA.testCases.TC_CaptureScreenShot_008"/> 
 			
@@ -51,10 +51,28 @@
 			 
 			 <class name="com.STTA.testCases.TC_HandleDynamicWebTable_020"/>
 			 
-			<!--   <class name="com.STTA.testCases.TC_HandleAjaxAutoSuggestDropList_021"/>-->
+			   
 			  
 			 <class name="com.STTA.testCases.TC_ParameterizationOrDataDrivenTesting_022"/>
-				   
+			 
+			 <class name="com.STTA.testCases.TC_DragAndDropElementByPixelXY_026"/>
+			 
+			 
+			 
+			 
+			 
+			          
+			       <!--   <class name="com.STTA.testCases.TC_CheckBoxRadioButtonOperations_006"/>
+			          
+			      <class name="com.STTA.testCases.TC_HandleAjaxAutoSuggestDropList_021"/>
+			      
+			  <class name="com.STTA.testCases.TC_AssertEqualsTestNG_023"/>
+			 
+			 	<class name="com.STTA.testCases.TC_AssertTrueTestNG_024"/>
+			 	
+			 	<class name="com.STTA.testCases.TC_AssertNullTestNG_025"/> -->
+			 	
+			 		   
 			    	
 		</classes>
 </test>
