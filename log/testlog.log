@@ -1,0 +1,464 @@
+2020-03-02 20:15:12,359 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is Launched
+2020-03-02 20:15:12,377 - SoftwareTestingTutorialsandAutomation -INFO - The title of the page is stored
+2020-03-02 20:15:12,384 - SoftwareTestingTutorialsandAutomation -INFO - The title length is stored
+2020-03-02 20:15:12,394 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 20:15:12,416 - SoftwareTestingTutorialsandAutomation -INFO - Stored the Domain name of the current url
+2020-03-02 20:15:12,443 - SoftwareTestingTutorialsandAutomation -INFO - Located Element which we want to drag
+2020-03-02 20:15:12,505 - SoftwareTestingTutorialsandAutomation -INFO - Stored text of dragged element
+2020-03-02 20:15:12,517 - SoftwareTestingTutorialsandAutomation -INFO - Located Element where we want to drop
+2020-03-02 20:15:12,914 - SoftwareTestingTutorialsandAutomation -INFO - Required Action completed Successfully
+2020-03-02 20:15:12,922 - SoftwareTestingTutorialsandAutomation -INFO - testdragAndDrop Test Passed
+2020-03-02 20:15:22,931 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is launched
+2020-03-02 20:15:22,947 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 20:15:23,047 - SoftwareTestingTutorialsandAutomation -INFO - User id feild is cleared
+2020-03-02 20:15:23,106 - SoftwareTestingTutorialsandAutomation -INFO - Password feild is cleared
+2020-03-02 20:15:23,212 - SoftwareTestingTutorialsandAutomation -INFO - Username is entered
+2020-03-02 20:15:23,326 - SoftwareTestingTutorialsandAutomation -INFO - Password is entered
+2020-03-02 20:15:23,414 - SoftwareTestingTutorialsandAutomation -INFO - Clicked on login button
+2020-03-02 20:15:23,488 - SoftwareTestingTutorialsandAutomation -INFO - Alert text is captured
+2020-03-02 20:15:23,508 - SoftwareTestingTutorialsandAutomation -INFO - Alert is handled
+2020-03-02 20:15:23,519 - SoftwareTestingTutorialsandAutomation -INFO - LogIn_Test Test Passed
+2020-03-02 20:15:25,192 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is launched
+2020-03-02 20:15:25,202 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 20:15:25,407 - SoftwareTestingTutorialsandAutomation -INFO - User id feild is cleared
+2020-03-02 20:15:25,466 - SoftwareTestingTutorialsandAutomation -INFO - Password feild is cleared
+2020-03-02 20:15:25,542 - SoftwareTestingTutorialsandAutomation -INFO - Username is entered
+2020-03-02 20:15:25,607 - SoftwareTestingTutorialsandAutomation -INFO - Password is entered
+2020-03-02 20:15:25,679 - SoftwareTestingTutorialsandAutomation -INFO - Clicked on login button
+2020-03-02 20:15:25,723 - SoftwareTestingTutorialsandAutomation -INFO - Alert text is captured
+2020-03-02 20:15:25,745 - SoftwareTestingTutorialsandAutomation -INFO - Alert is handled
+2020-03-02 20:15:25,762 - SoftwareTestingTutorialsandAutomation -INFO - LogIn_Test Test Passed
+2020-03-02 20:15:27,312 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is launched
+2020-03-02 20:15:27,324 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 20:15:27,382 - SoftwareTestingTutorialsandAutomation -INFO - User id feild is cleared
+2020-03-02 20:15:27,461 - SoftwareTestingTutorialsandAutomation -INFO - Password feild is cleared
+2020-03-02 20:15:27,528 - SoftwareTestingTutorialsandAutomation -INFO - Username is entered
+2020-03-02 20:15:27,575 - SoftwareTestingTutorialsandAutomation -INFO - Password is entered
+2020-03-02 20:15:27,627 - SoftwareTestingTutorialsandAutomation -INFO - Clicked on login button
+2020-03-02 20:15:27,670 - SoftwareTestingTutorialsandAutomation -INFO - Alert text is captured
+2020-03-02 20:15:27,685 - SoftwareTestingTutorialsandAutomation -INFO - Alert is handled
+2020-03-02 20:15:27,698 - SoftwareTestingTutorialsandAutomation -INFO - LogIn_Test Test Passed
+2020-03-02 20:15:29,628 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is launched
+2020-03-02 20:15:29,638 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 20:15:29,699 - SoftwareTestingTutorialsandAutomation -INFO - User id feild is cleared
+2020-03-02 20:15:29,755 - SoftwareTestingTutorialsandAutomation -INFO - Password feild is cleared
+2020-03-02 20:15:29,803 - SoftwareTestingTutorialsandAutomation -INFO - Username is entered
+2020-03-02 20:15:29,855 - SoftwareTestingTutorialsandAutomation -INFO - Password is entered
+2020-03-02 20:15:29,953 - SoftwareTestingTutorialsandAutomation -INFO - Clicked on login button
+2020-03-02 20:15:29,965 - SoftwareTestingTutorialsandAutomation -INFO - Alert text is captured
+2020-03-02 20:15:29,986 - SoftwareTestingTutorialsandAutomation -INFO - Alert is handled
+2020-03-02 20:15:29,994 - SoftwareTestingTutorialsandAutomation -INFO - LogIn_Test Test Passed
+2020-03-02 20:15:39,307 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is Launched
+2020-03-02 20:15:39,319 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 20:15:39,620 - SoftwareTestingTutorialsandAutomation -INFO - 1 is Clicked 
+2020-03-02 20:15:39,862 - SoftwareTestingTutorialsandAutomation -INFO - + is Clicked 
+2020-03-02 20:15:40,097 - SoftwareTestingTutorialsandAutomation -INFO - 6 is Clicked 
+2020-03-02 20:15:40,335 - SoftwareTestingTutorialsandAutomation -INFO -  = is Clicked 
+2020-03-02 20:15:40,372 - SoftwareTestingTutorialsandAutomation -INFO - Result is displayed
+2020-03-02 20:15:40,377 - SoftwareTestingTutorialsandAutomation -INFO -  testCal Test Passed
+2020-03-02 20:15:50,481 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is Launched
+2020-03-02 20:15:50,487 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 20:15:50,811 - SoftwareTestingTutorialsandAutomation -INFO - testCheckbox Test Passed
+2020-03-02 20:16:03,235 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is opend
+2020-03-02 20:16:03,247 - SoftwareTestingTutorialsandAutomation -INFO - The title of the page is stored
+2020-03-02 20:16:03,257 - SoftwareTestingTutorialsandAutomation -INFO - The title length is stored
+2020-03-02 20:16:03,272 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 20:16:12,962 - SoftwareTestingTutorialsandAutomation -INFO - Clicked on Gmail link in Google page
+2020-03-02 20:16:12,962 - SoftwareTestingTutorialsandAutomation -INFO - Gmail page is opend
+2020-03-02 20:16:14,205 - SoftwareTestingTutorialsandAutomation -INFO - Navigate back to Google page 
+2020-03-02 20:16:15,501 - SoftwareTestingTutorialsandAutomation -INFO - Navigate forward to gmail page
+2020-03-02 20:16:17,086 - SoftwareTestingTutorialsandAutomation -INFO - Navigate to Google page
+2020-03-02 20:16:21,887 - SoftwareTestingTutorialsandAutomation -INFO - Google page is refreshed
+2020-03-02 20:16:21,899 - SoftwareTestingTutorialsandAutomation -INFO - testBrowsercmds Test Passed
+2020-03-02 20:16:31,345 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is Launched
+2020-03-02 20:16:31,353 - SoftwareTestingTutorialsandAutomation -INFO - The title of the page is stored
+2020-03-02 20:16:31,363 - SoftwareTestingTutorialsandAutomation -INFO - The title length is stored
+2020-03-02 20:16:31,368 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 20:16:31,382 - SoftwareTestingTutorialsandAutomation -INFO - Stored the Domain name of the current url
+2020-03-02 20:16:31,573 - SoftwareTestingTutorialsandAutomation -INFO - testCaptureScreenshot Test Passed
+2020-03-02 20:16:41,497 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is Launched
+2020-03-02 20:16:41,511 - SoftwareTestingTutorialsandAutomation -INFO - The title of the page is stored
+2020-03-02 20:16:41,522 - SoftwareTestingTutorialsandAutomation -INFO - The title length is stored
+2020-03-02 20:16:41,529 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 20:16:41,544 - SoftwareTestingTutorialsandAutomation -INFO - Stored the Domain name of the current url
+2020-03-02 20:16:44,403 - SoftwareTestingTutorialsandAutomation -INFO - testGeneratingMouseHoverEventOnMainMenuToClickOnSubMenu Test Passed
+2020-03-02 20:16:54,126 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is Launched
+2020-03-02 20:16:54,139 - SoftwareTestingTutorialsandAutomation -INFO - The title of the page is stored
+2020-03-02 20:16:54,153 - SoftwareTestingTutorialsandAutomation -INFO - The title length is stored
+2020-03-02 20:16:54,163 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 20:16:54,179 - SoftwareTestingTutorialsandAutomation -INFO - Stored the Domain name of the current url
+2020-03-02 20:17:18,546 - SoftwareTestingTutorialsandAutomation -INFO - testHandlingMultipleBrowserWindows Test Passed
+2020-03-02 20:17:28,685 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is Launched
+2020-03-02 20:17:28,690 - SoftwareTestingTutorialsandAutomation -INFO - The title of the page is stored
+2020-03-02 20:17:28,696 - SoftwareTestingTutorialsandAutomation -INFO - The title length is stored
+2020-03-02 20:17:28,705 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 20:17:28,719 - SoftwareTestingTutorialsandAutomation -INFO - Stored the Domain name of the current url
+2020-03-02 20:17:31,925 - SoftwareTestingTutorialsandAutomation -INFO - Clicked on OK button in Alert popup
+2020-03-02 20:17:34,040 - SoftwareTestingTutorialsandAutomation -INFO - clicked on Cancel Button in confirmation box.
+2020-03-02 20:17:38,224 - SoftwareTestingTutorialsandAutomation -INFO - Text is entered in prompt pop up
+2020-03-02 20:17:38,225 - SoftwareTestingTutorialsandAutomation -INFO - Required Action completed Successfully
+2020-03-02 20:17:38,252 - SoftwareTestingTutorialsandAutomation -INFO - testHandlingJSAlerts Test Passed
+2020-03-02 20:17:48,531 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is Launched
+2020-03-02 20:17:48,542 - SoftwareTestingTutorialsandAutomation -INFO - The title of the page is stored
+2020-03-02 20:17:48,549 - SoftwareTestingTutorialsandAutomation -INFO - The title length is stored
+2020-03-02 20:17:48,559 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 20:17:48,570 - SoftwareTestingTutorialsandAutomation -INFO - Stored the Domain name of the current url
+2020-03-02 20:17:49,729 - SoftwareTestingTutorialsandAutomation -INFO - element is Highlited
+2020-03-02 20:17:49,824 - SoftwareTestingTutorialsandAutomation -INFO - Text is entered into the feild
+2020-03-02 20:17:50,447 - SoftwareTestingTutorialsandAutomation -INFO - button is Higlited
+2020-03-02 20:17:59,771 - SoftwareTestingTutorialsandAutomation -INFO - subbmitted button is highlited and clicked
+2020-03-02 20:17:59,772 - SoftwareTestingTutorialsandAutomation -INFO - Required Action completed Successfully
+2020-03-02 20:17:59,776 - SoftwareTestingTutorialsandAutomation -INFO - testHighlightElement Test Passed
+2020-03-02 20:18:10,199 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is Launched
+2020-03-02 20:18:10,207 - SoftwareTestingTutorialsandAutomation -INFO - The title of the page is stored
+2020-03-02 20:18:10,217 - SoftwareTestingTutorialsandAutomation -INFO - The title length is stored
+2020-03-02 20:18:10,222 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 20:18:10,237 - SoftwareTestingTutorialsandAutomation -INFO - Stored the Domain name of the current url
+2020-03-02 20:18:10,297 - SoftwareTestingTutorialsandAutomation -INFO - Read font-size property and printed It In console
+2020-03-02 20:18:10,306 - SoftwareTestingTutorialsandAutomation -INFO - Read color property and printed It In console.
+2020-03-02 20:18:10,319 - SoftwareTestingTutorialsandAutomation -INFO - Read font-family property and printed It In console.
+2020-03-02 20:18:10,328 - SoftwareTestingTutorialsandAutomation -INFO - Read text-align property and printed It In console.
+2020-03-02 20:18:10,328 - SoftwareTestingTutorialsandAutomation -INFO - Required Action completed Successfully
+2020-03-02 20:18:10,333 - SoftwareTestingTutorialsandAutomation -INFO - testReadingFontProperties Test Passed
+2020-03-02 20:18:19,701 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is Launched
+2020-03-02 20:18:19,711 - SoftwareTestingTutorialsandAutomation -INFO - The title of the page is stored
+2020-03-02 20:18:19,716 - SoftwareTestingTutorialsandAutomation -INFO - The title length is stored
+2020-03-02 20:18:19,725 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 20:18:19,738 - SoftwareTestingTutorialsandAutomation -INFO - Stored the Domain name of the current url
+2020-03-02 20:18:19,815 - SoftwareTestingTutorialsandAutomation -INFO - findElement will locate only targeted element and then print its id and text in console
+2020-03-02 20:18:19,829 - SoftwareTestingTutorialsandAutomation -INFO - 
+2020-03-02 20:18:20,272 - SoftwareTestingTutorialsandAutomation -INFO - findElements will locate all those elements of current page which are under given xpath = //option. for loop is used to print all those element's id and text in console.
+
+2020-03-02 20:18:20,272 - SoftwareTestingTutorialsandAutomation -INFO - Required Action completed Successfully
+2020-03-02 20:18:20,277 - SoftwareTestingTutorialsandAutomation -INFO - testDiffBetFindElementAndFindElements Test Passed
+2020-03-02 20:18:29,732 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is Launched
+2020-03-02 20:18:29,744 - SoftwareTestingTutorialsandAutomation -INFO - The title of the page is stored
+2020-03-02 20:18:29,751 - SoftwareTestingTutorialsandAutomation -INFO - The title length is stored
+2020-03-02 20:18:29,760 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 20:18:29,774 - SoftwareTestingTutorialsandAutomation -INFO - Stored the Domain name of the current url
+2020-03-02 20:18:29,871 - SoftwareTestingTutorialsandAutomation -INFO - First name entered
+2020-03-02 20:18:29,930 - SoftwareTestingTutorialsandAutomation -INFO - Second name entered
+2020-03-02 20:18:29,984 - SoftwareTestingTutorialsandAutomation -INFO - Email entered
+2020-03-02 20:18:30,034 - SoftwareTestingTutorialsandAutomation -INFO - Mobile number entered
+2020-03-02 20:18:30,094 - SoftwareTestingTutorialsandAutomation -INFO - Company name entered
+2020-03-02 20:18:30,155 - SoftwareTestingTutorialsandAutomation -INFO - Clicked on Submit button
+2020-03-02 20:18:30,246 - SoftwareTestingTutorialsandAutomation -INFO - Captured the alert Text
+2020-03-02 20:18:30,262 - SoftwareTestingTutorialsandAutomation -INFO - Alert handled
+2020-03-02 20:18:30,263 - SoftwareTestingTutorialsandAutomation -INFO - Required Action Completed Successfully
+2020-03-02 20:18:30,270 - SoftwareTestingTutorialsandAutomation -INFO - testDiffBetClickAndSubmit Test Passed
+2020-03-02 20:18:39,794 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is Launched
+2020-03-02 20:18:39,807 - SoftwareTestingTutorialsandAutomation -INFO - The title of the page is stored
+2020-03-02 20:18:39,812 - SoftwareTestingTutorialsandAutomation -INFO - The title length is stored
+2020-03-02 20:18:39,820 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 20:18:39,833 - SoftwareTestingTutorialsandAutomation -INFO - Stored the Domain name of the current url
+2020-03-02 20:18:41,946 - SoftwareTestingTutorialsandAutomation -INFO - testObjectRepositoryUsingPropertiesFile Test Passed
+2020-03-02 20:18:50,914 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is Launched
+2020-03-02 20:18:50,921 - SoftwareTestingTutorialsandAutomation -INFO - The title of the page is stored
+2020-03-02 20:18:50,938 - SoftwareTestingTutorialsandAutomation -INFO - The title length is stored
+2020-03-02 20:18:50,949 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 20:18:50,964 - SoftwareTestingTutorialsandAutomation -INFO - Stored the Domain name of the current url
+2020-03-02 20:18:50,985 - SoftwareTestingTutorialsandAutomation -INFO - No of Links are captured
+2020-03-02 20:18:51,074 - SoftwareTestingTutorialsandAutomation -INFO - all links names are Captured
+2020-03-02 20:18:51,075 - SoftwareTestingTutorialsandAutomation -INFO - all links attributes are Captured
+2020-03-02 20:18:51,111 - SoftwareTestingTutorialsandAutomation -INFO - all links names are Captured
+2020-03-02 20:18:51,111 - SoftwareTestingTutorialsandAutomation -INFO - all links attributes are Captured
+2020-03-02 20:18:51,147 - SoftwareTestingTutorialsandAutomation -INFO - all links names are Captured
+2020-03-02 20:18:51,147 - SoftwareTestingTutorialsandAutomation -INFO - all links attributes are Captured
+2020-03-02 20:18:51,184 - SoftwareTestingTutorialsandAutomation -INFO - all links names are Captured
+2020-03-02 20:18:51,185 - SoftwareTestingTutorialsandAutomation -INFO - all links attributes are Captured
+2020-03-02 20:18:51,216 - SoftwareTestingTutorialsandAutomation -INFO - all links names are Captured
+2020-03-02 20:18:51,217 - SoftwareTestingTutorialsandAutomation -INFO - all links attributes are Captured
+2020-03-02 20:18:51,262 - SoftwareTestingTutorialsandAutomation -INFO - all links names are Captured
+2020-03-02 20:18:51,262 - SoftwareTestingTutorialsandAutomation -INFO - all links attributes are Captured
+2020-03-02 20:18:51,305 - SoftwareTestingTutorialsandAutomation -INFO - all links names are Captured
+2020-03-02 20:18:51,306 - SoftwareTestingTutorialsandAutomation -INFO - all links attributes are Captured
+2020-03-02 20:18:51,334 - SoftwareTestingTutorialsandAutomation -INFO - all links names are Captured
+2020-03-02 20:18:51,335 - SoftwareTestingTutorialsandAutomation -INFO - all links attributes are Captured
+2020-03-02 20:18:51,361 - SoftwareTestingTutorialsandAutomation -INFO - all links names are Captured
+2020-03-02 20:18:51,362 - SoftwareTestingTutorialsandAutomation -INFO - all links attributes are Captured
+2020-03-02 20:18:51,390 - SoftwareTestingTutorialsandAutomation -INFO - all links names are Captured
+2020-03-02 20:18:51,390 - SoftwareTestingTutorialsandAutomation -INFO - all links attributes are Captured
+2020-03-02 20:18:51,414 - SoftwareTestingTutorialsandAutomation -INFO - all links names are Captured
+2020-03-02 20:18:51,414 - SoftwareTestingTutorialsandAutomation -INFO - all links attributes are Captured
+2020-03-02 20:18:51,437 - SoftwareTestingTutorialsandAutomation -INFO - all links names are Captured
+2020-03-02 20:18:51,438 - SoftwareTestingTutorialsandAutomation -INFO - all links attributes are Captured
+2020-03-02 20:18:51,457 - SoftwareTestingTutorialsandAutomation -INFO - all links names are Captured
+2020-03-02 20:18:51,457 - SoftwareTestingTutorialsandAutomation -INFO - all links attributes are Captured
+2020-03-02 20:18:51,484 - SoftwareTestingTutorialsandAutomation -INFO - all links names are Captured
+2020-03-02 20:18:51,484 - SoftwareTestingTutorialsandAutomation -INFO - all links attributes are Captured
+2020-03-02 20:18:51,509 - SoftwareTestingTutorialsandAutomation -INFO - all links names are Captured
+2020-03-02 20:18:51,509 - SoftwareTestingTutorialsandAutomation -INFO - all links attributes are Captured
+2020-03-02 20:18:51,532 - SoftwareTestingTutorialsandAutomation -INFO - all links names are Captured
+2020-03-02 20:18:51,533 - SoftwareTestingTutorialsandAutomation -INFO - all links attributes are Captured
+2020-03-02 20:18:51,559 - SoftwareTestingTutorialsandAutomation -INFO - all links names are Captured
+2020-03-02 20:18:51,560 - SoftwareTestingTutorialsandAutomation -INFO - all links attributes are Captured
+2020-03-02 20:18:51,582 - SoftwareTestingTutorialsandAutomation -INFO - all links names are Captured
+2020-03-02 20:18:51,582 - SoftwareTestingTutorialsandAutomation -INFO - all links attributes are Captured
+2020-03-02 20:18:51,605 - SoftwareTestingTutorialsandAutomation -INFO - all links names are Captured
+2020-03-02 20:18:51,606 - SoftwareTestingTutorialsandAutomation -INFO - all links attributes are Captured
+2020-03-02 20:18:51,636 - SoftwareTestingTutorialsandAutomation -INFO - all links names are Captured
+2020-03-02 20:18:51,636 - SoftwareTestingTutorialsandAutomation -INFO - all links attributes are Captured
+2020-03-02 20:18:51,637 - SoftwareTestingTutorialsandAutomation -INFO - Required Action completed Successfully
+2020-03-02 20:18:51,641 - SoftwareTestingTutorialsandAutomation -INFO - testGetOrExtractAllLinksFromWebPage Test Passed
+2020-03-02 20:19:01,479 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is Launched
+2020-03-02 20:19:01,493 - SoftwareTestingTutorialsandAutomation -INFO - The title of the page is stored
+2020-03-02 20:19:01,500 - SoftwareTestingTutorialsandAutomation -INFO - The title length is stored
+2020-03-02 20:19:01,511 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 20:19:01,528 - SoftwareTestingTutorialsandAutomation -INFO - Stored the Domain name of the current url
+2020-03-02 20:19:05,807 - SoftwareTestingTutorialsandAutomation -INFO - testExtractingAllTextFieldsFromWebPage Test Passed
+2020-03-02 20:19:16,191 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is Launched
+2020-03-02 20:19:16,203 - SoftwareTestingTutorialsandAutomation -INFO - The title of the page is stored
+2020-03-02 20:19:16,213 - SoftwareTestingTutorialsandAutomation -INFO - The title length is stored
+2020-03-02 20:19:16,223 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 20:19:16,242 - SoftwareTestingTutorialsandAutomation -INFO - Stored the Domain name of the current url
+2020-03-02 20:19:16,866 - SoftwareTestingTutorialsandAutomation -INFO - testExtractOrReadTableData Test Passed
+2020-03-02 20:19:27,909 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is Launched
+2020-03-02 20:19:27,918 - SoftwareTestingTutorialsandAutomation -INFO - The title of the page is stored
+2020-03-02 20:19:27,924 - SoftwareTestingTutorialsandAutomation -INFO - The title length is stored
+2020-03-02 20:19:27,934 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 20:19:27,949 - SoftwareTestingTutorialsandAutomation -INFO - Stored the Domain name of the current url
+2020-03-02 20:19:28,204 - SoftwareTestingTutorialsandAutomation -INFO - testHandleDynamicWebTable Test Passed
+2020-03-02 20:19:38,300 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is Launched
+2020-03-02 20:19:38,313 - SoftwareTestingTutorialsandAutomation -INFO - The title of the page is stored
+2020-03-02 20:19:38,326 - SoftwareTestingTutorialsandAutomation -INFO - The title length is stored
+2020-03-02 20:19:38,332 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 20:19:38,346 - SoftwareTestingTutorialsandAutomation -INFO - Stored the Domain name of the current url
+2020-03-02 20:19:52,430 - SoftwareTestingTutorialsandAutomation -INFO - testDDTorParameterization Test Passed
+2020-03-02 20:20:03,832 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is Launched
+2020-03-02 20:20:03,840 - SoftwareTestingTutorialsandAutomation -INFO - The title of the page is stored
+2020-03-02 20:20:03,852 - SoftwareTestingTutorialsandAutomation -INFO - The title length is stored
+2020-03-02 20:20:03,864 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 20:20:03,879 - SoftwareTestingTutorialsandAutomation -INFO - Stored the Domain name of the current url
+2020-03-02 20:20:20,319 - SoftwareTestingTutorialsandAutomation -INFO - testDragAndDropElementByPixelXY Test Passed
+2020-03-02 21:20:42,854 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is Launched
+2020-03-02 21:20:42,876 - SoftwareTestingTutorialsandAutomation -INFO - The title of the page is stored
+2020-03-02 21:20:42,883 - SoftwareTestingTutorialsandAutomation -INFO - The title length is stored
+2020-03-02 21:20:42,914 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 21:20:42,930 - SoftwareTestingTutorialsandAutomation -INFO - Stored the Domain name of the current url
+2020-03-02 21:20:42,967 - SoftwareTestingTutorialsandAutomation -INFO - Located Element which we want to drag
+2020-03-02 21:20:43,059 - SoftwareTestingTutorialsandAutomation -INFO - Stored text of dragged element
+2020-03-02 21:20:43,075 - SoftwareTestingTutorialsandAutomation -INFO - Located Element where we want to drop
+2020-03-02 21:20:43,535 - SoftwareTestingTutorialsandAutomation -INFO - Required Action completed Successfully
+2020-03-02 21:20:43,548 - SoftwareTestingTutorialsandAutomation -INFO - testdragAndDrop Test Passed
+2020-03-02 21:20:51,656 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is launched
+2020-03-02 21:20:51,672 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 21:20:51,760 - SoftwareTestingTutorialsandAutomation -INFO - User id feild is cleared
+2020-03-02 21:20:51,802 - SoftwareTestingTutorialsandAutomation -INFO - Password feild is cleared
+2020-03-02 21:20:51,902 - SoftwareTestingTutorialsandAutomation -INFO - Username is entered
+2020-03-02 21:20:51,961 - SoftwareTestingTutorialsandAutomation -INFO - Password is entered
+2020-03-02 21:20:52,122 - SoftwareTestingTutorialsandAutomation -INFO - Clicked on login button
+2020-03-02 21:20:52,191 - SoftwareTestingTutorialsandAutomation -INFO - Alert text is captured
+2020-03-02 21:20:52,208 - SoftwareTestingTutorialsandAutomation -INFO - Alert is handled
+2020-03-02 21:20:52,220 - SoftwareTestingTutorialsandAutomation -INFO - LogIn_Test Test Passed
+2020-03-02 21:20:54,493 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is launched
+2020-03-02 21:20:54,506 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 21:20:54,609 - SoftwareTestingTutorialsandAutomation -INFO - User id feild is cleared
+2020-03-02 21:20:54,774 - SoftwareTestingTutorialsandAutomation -INFO - Password feild is cleared
+2020-03-02 21:20:55,078 - SoftwareTestingTutorialsandAutomation -INFO - Username is entered
+2020-03-02 21:20:55,186 - SoftwareTestingTutorialsandAutomation -INFO - Password is entered
+2020-03-02 21:20:55,290 - SoftwareTestingTutorialsandAutomation -INFO - Clicked on login button
+2020-03-02 21:20:55,313 - SoftwareTestingTutorialsandAutomation -INFO - Alert text is captured
+2020-03-02 21:20:55,326 - SoftwareTestingTutorialsandAutomation -INFO - Alert is handled
+2020-03-02 21:20:55,337 - SoftwareTestingTutorialsandAutomation -INFO - LogIn_Test Test Passed
+2020-03-02 21:20:56,726 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is launched
+2020-03-02 21:20:56,736 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 21:20:56,820 - SoftwareTestingTutorialsandAutomation -INFO - User id feild is cleared
+2020-03-02 21:20:56,863 - SoftwareTestingTutorialsandAutomation -INFO - Password feild is cleared
+2020-03-02 21:20:56,914 - SoftwareTestingTutorialsandAutomation -INFO - Username is entered
+2020-03-02 21:20:56,957 - SoftwareTestingTutorialsandAutomation -INFO - Password is entered
+2020-03-02 21:20:57,004 - SoftwareTestingTutorialsandAutomation -INFO - Clicked on login button
+2020-03-02 21:20:57,059 - SoftwareTestingTutorialsandAutomation -INFO - Alert text is captured
+2020-03-02 21:20:57,082 - SoftwareTestingTutorialsandAutomation -INFO - Alert is handled
+2020-03-02 21:20:57,093 - SoftwareTestingTutorialsandAutomation -INFO - LogIn_Test Test Passed
+2020-03-02 21:20:58,364 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is launched
+2020-03-02 21:20:58,369 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 21:20:58,452 - SoftwareTestingTutorialsandAutomation -INFO - User id feild is cleared
+2020-03-02 21:20:58,504 - SoftwareTestingTutorialsandAutomation -INFO - Password feild is cleared
+2020-03-02 21:20:58,561 - SoftwareTestingTutorialsandAutomation -INFO - Username is entered
+2020-03-02 21:20:58,618 - SoftwareTestingTutorialsandAutomation -INFO - Password is entered
+2020-03-02 21:20:58,668 - SoftwareTestingTutorialsandAutomation -INFO - Clicked on login button
+2020-03-02 21:20:58,708 - SoftwareTestingTutorialsandAutomation -INFO - Alert text is captured
+2020-03-02 21:20:58,728 - SoftwareTestingTutorialsandAutomation -INFO - Alert is handled
+2020-03-02 21:20:58,734 - SoftwareTestingTutorialsandAutomation -INFO - LogIn_Test Test Passed
+2020-03-02 21:21:08,698 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is Launched
+2020-03-02 21:21:08,713 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 21:21:09,078 - SoftwareTestingTutorialsandAutomation -INFO - 1 is Clicked 
+2020-03-02 21:21:09,327 - SoftwareTestingTutorialsandAutomation -INFO - + is Clicked 
+2020-03-02 21:21:09,573 - SoftwareTestingTutorialsandAutomation -INFO - 6 is Clicked 
+2020-03-02 21:21:09,842 - SoftwareTestingTutorialsandAutomation -INFO -  = is Clicked 
+2020-03-02 21:21:09,890 - SoftwareTestingTutorialsandAutomation -INFO - Result is displayed
+2020-03-02 21:21:09,895 - SoftwareTestingTutorialsandAutomation -INFO -  testCal Test Passed
+2020-03-02 21:21:21,596 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is Launched
+2020-03-02 21:21:21,610 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 21:21:21,968 - SoftwareTestingTutorialsandAutomation -INFO - testCheckbox Test Passed
+2020-03-02 21:21:38,168 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is opend
+2020-03-02 21:21:38,194 - SoftwareTestingTutorialsandAutomation -INFO - The title of the page is stored
+2020-03-02 21:21:38,200 - SoftwareTestingTutorialsandAutomation -INFO - The title length is stored
+2020-03-02 21:21:38,207 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 21:21:45,195 - SoftwareTestingTutorialsandAutomation -INFO - Clicked on Gmail link in Google page
+2020-03-02 21:21:45,195 - SoftwareTestingTutorialsandAutomation -INFO - Gmail page is opend
+2020-03-02 21:21:46,052 - SoftwareTestingTutorialsandAutomation -INFO - Navigate back to Google page 
+2020-03-02 21:21:47,531 - SoftwareTestingTutorialsandAutomation -INFO - Navigate forward to gmail page
+2020-03-02 21:21:49,241 - SoftwareTestingTutorialsandAutomation -INFO - Navigate to Google page
+2020-03-02 21:21:50,707 - SoftwareTestingTutorialsandAutomation -INFO - Google page is refreshed
+2020-03-02 21:21:50,721 - SoftwareTestingTutorialsandAutomation -INFO - testBrowsercmds Test Passed
+2020-03-02 21:21:59,123 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is Launched
+2020-03-02 21:21:59,140 - SoftwareTestingTutorialsandAutomation -INFO - The title of the page is stored
+2020-03-02 21:21:59,151 - SoftwareTestingTutorialsandAutomation -INFO - The title length is stored
+2020-03-02 21:21:59,158 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 21:21:59,174 - SoftwareTestingTutorialsandAutomation -INFO - Stored the Domain name of the current url
+2020-03-02 21:21:59,405 - SoftwareTestingTutorialsandAutomation -INFO - testCaptureScreenshot Test Passed
+2020-03-02 21:22:08,597 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is Launched
+2020-03-02 21:22:08,612 - SoftwareTestingTutorialsandAutomation -INFO - The title of the page is stored
+2020-03-02 21:22:08,634 - SoftwareTestingTutorialsandAutomation -INFO - The title length is stored
+2020-03-02 21:22:08,644 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 21:22:08,661 - SoftwareTestingTutorialsandAutomation -INFO - Stored the Domain name of the current url
+2020-03-02 21:22:11,532 - SoftwareTestingTutorialsandAutomation -INFO - testGeneratingMouseHoverEventOnMainMenuToClickOnSubMenu Test Passed
+2020-03-02 21:22:19,732 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is Launched
+2020-03-02 21:22:19,749 - SoftwareTestingTutorialsandAutomation -INFO - The title of the page is stored
+2020-03-02 21:22:19,762 - SoftwareTestingTutorialsandAutomation -INFO - The title length is stored
+2020-03-02 21:22:19,768 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 21:22:19,798 - SoftwareTestingTutorialsandAutomation -INFO - Stored the Domain name of the current url
+2020-03-02 21:22:44,010 - SoftwareTestingTutorialsandAutomation -INFO - testHandlingMultipleBrowserWindows Test Passed
+2020-03-02 21:22:56,251 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is Launched
+2020-03-02 21:22:56,264 - SoftwareTestingTutorialsandAutomation -INFO - The title of the page is stored
+2020-03-02 21:22:56,271 - SoftwareTestingTutorialsandAutomation -INFO - The title length is stored
+2020-03-02 21:22:56,279 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 21:22:56,297 - SoftwareTestingTutorialsandAutomation -INFO - Stored the Domain name of the current url
+2020-03-02 21:22:59,527 - SoftwareTestingTutorialsandAutomation -INFO - Clicked on OK button in Alert popup
+2020-03-02 21:23:01,629 - SoftwareTestingTutorialsandAutomation -INFO - clicked on Cancel Button in confirmation box.
+2020-03-02 21:23:05,852 - SoftwareTestingTutorialsandAutomation -INFO - Text is entered in prompt pop up
+2020-03-02 21:23:05,852 - SoftwareTestingTutorialsandAutomation -INFO - Required Action completed Successfully
+2020-03-02 21:23:05,863 - SoftwareTestingTutorialsandAutomation -INFO - testHandlingJSAlerts Test Passed
+2020-03-02 21:23:14,836 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is Launched
+2020-03-02 21:23:14,842 - SoftwareTestingTutorialsandAutomation -INFO - The title of the page is stored
+2020-03-02 21:23:14,854 - SoftwareTestingTutorialsandAutomation -INFO - The title length is stored
+2020-03-02 21:23:14,858 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 21:23:14,875 - SoftwareTestingTutorialsandAutomation -INFO - Stored the Domain name of the current url
+2020-03-02 21:23:15,756 - SoftwareTestingTutorialsandAutomation -INFO - element is Highlited
+2020-03-02 21:23:15,848 - SoftwareTestingTutorialsandAutomation -INFO - Text is entered into the feild
+2020-03-02 21:23:16,506 - SoftwareTestingTutorialsandAutomation -INFO - button is Higlited
+2020-03-02 21:23:26,169 - SoftwareTestingTutorialsandAutomation -INFO - subbmitted button is highlited and clicked
+2020-03-02 21:23:26,169 - SoftwareTestingTutorialsandAutomation -INFO - Required Action completed Successfully
+2020-03-02 21:23:26,182 - SoftwareTestingTutorialsandAutomation -INFO - testHighlightElement Test Passed
+2020-03-02 21:23:43,310 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is Launched
+2020-03-02 21:23:43,323 - SoftwareTestingTutorialsandAutomation -INFO - The title of the page is stored
+2020-03-02 21:23:43,328 - SoftwareTestingTutorialsandAutomation -INFO - The title length is stored
+2020-03-02 21:23:43,337 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 21:23:43,347 - SoftwareTestingTutorialsandAutomation -INFO - Stored the Domain name of the current url
+2020-03-02 21:23:43,396 - SoftwareTestingTutorialsandAutomation -INFO - Read font-size property and printed It In console
+2020-03-02 21:23:43,407 - SoftwareTestingTutorialsandAutomation -INFO - Read color property and printed It In console.
+2020-03-02 21:23:43,419 - SoftwareTestingTutorialsandAutomation -INFO - Read font-family property and printed It In console.
+2020-03-02 21:23:43,430 - SoftwareTestingTutorialsandAutomation -INFO - Read text-align property and printed It In console.
+2020-03-02 21:23:43,430 - SoftwareTestingTutorialsandAutomation -INFO - Required Action completed Successfully
+2020-03-02 21:23:43,435 - SoftwareTestingTutorialsandAutomation -INFO - testReadingFontProperties Test Passed
+2020-03-02 21:23:51,968 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is Launched
+2020-03-02 21:23:51,990 - SoftwareTestingTutorialsandAutomation -INFO - The title of the page is stored
+2020-03-02 21:23:51,998 - SoftwareTestingTutorialsandAutomation -INFO - The title length is stored
+2020-03-02 21:23:52,003 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 21:23:52,017 - SoftwareTestingTutorialsandAutomation -INFO - Stored the Domain name of the current url
+2020-03-02 21:23:52,090 - SoftwareTestingTutorialsandAutomation -INFO - findElement will locate only targeted element and then print its id and text in console
+2020-03-02 21:23:52,103 - SoftwareTestingTutorialsandAutomation -INFO - 
+2020-03-02 21:23:52,592 - SoftwareTestingTutorialsandAutomation -INFO - findElements will locate all those elements of current page which are under given xpath = //option. for loop is used to print all those element's id and text in console.
+
+2020-03-02 21:23:52,592 - SoftwareTestingTutorialsandAutomation -INFO - Required Action completed Successfully
+2020-03-02 21:23:52,597 - SoftwareTestingTutorialsandAutomation -INFO - testDiffBetFindElementAndFindElements Test Passed
+2020-03-02 21:24:00,490 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is Launched
+2020-03-02 21:24:00,503 - SoftwareTestingTutorialsandAutomation -INFO - The title of the page is stored
+2020-03-02 21:24:00,515 - SoftwareTestingTutorialsandAutomation -INFO - The title length is stored
+2020-03-02 21:24:00,522 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 21:24:00,536 - SoftwareTestingTutorialsandAutomation -INFO - Stored the Domain name of the current url
+2020-03-02 21:24:00,678 - SoftwareTestingTutorialsandAutomation -INFO - First name entered
+2020-03-02 21:24:00,746 - SoftwareTestingTutorialsandAutomation -INFO - Second name entered
+2020-03-02 21:24:00,810 - SoftwareTestingTutorialsandAutomation -INFO - Email entered
+2020-03-02 21:24:00,864 - SoftwareTestingTutorialsandAutomation -INFO - Mobile number entered
+2020-03-02 21:24:00,922 - SoftwareTestingTutorialsandAutomation -INFO - Company name entered
+2020-03-02 21:24:00,987 - SoftwareTestingTutorialsandAutomation -INFO - Clicked on Submit button
+2020-03-02 21:24:01,134 - SoftwareTestingTutorialsandAutomation -INFO - Captured the alert Text
+2020-03-02 21:24:01,144 - SoftwareTestingTutorialsandAutomation -INFO - Alert handled
+2020-03-02 21:24:01,144 - SoftwareTestingTutorialsandAutomation -INFO - Required Action Completed Successfully
+2020-03-02 21:24:01,150 - SoftwareTestingTutorialsandAutomation -INFO - testDiffBetClickAndSubmit Test Passed
+2020-03-02 21:24:12,974 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is Launched
+2020-03-02 21:24:12,981 - SoftwareTestingTutorialsandAutomation -INFO - The title of the page is stored
+2020-03-02 21:24:12,996 - SoftwareTestingTutorialsandAutomation -INFO - The title length is stored
+2020-03-02 21:24:13,006 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 21:24:13,017 - SoftwareTestingTutorialsandAutomation -INFO - Stored the Domain name of the current url
+2020-03-02 21:24:15,254 - SoftwareTestingTutorialsandAutomation -INFO - testObjectRepositoryUsingPropertiesFile Test Passed
+2020-03-02 21:24:22,858 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is Launched
+2020-03-02 21:24:22,871 - SoftwareTestingTutorialsandAutomation -INFO - The title of the page is stored
+2020-03-02 21:24:22,903 - SoftwareTestingTutorialsandAutomation -INFO - The title length is stored
+2020-03-02 21:24:22,910 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 21:24:22,923 - SoftwareTestingTutorialsandAutomation -INFO - Stored the Domain name of the current url
+2020-03-02 21:24:22,940 - SoftwareTestingTutorialsandAutomation -INFO - No of Links are captured
+2020-03-02 21:24:23,013 - SoftwareTestingTutorialsandAutomation -INFO - all links names are Captured
+2020-03-02 21:24:23,014 - SoftwareTestingTutorialsandAutomation -INFO - all links attributes are Captured
+2020-03-02 21:24:23,043 - SoftwareTestingTutorialsandAutomation -INFO - all links names are Captured
+2020-03-02 21:24:23,043 - SoftwareTestingTutorialsandAutomation -INFO - all links attributes are Captured
+2020-03-02 21:24:23,077 - SoftwareTestingTutorialsandAutomation -INFO - all links names are Captured
+2020-03-02 21:24:23,077 - SoftwareTestingTutorialsandAutomation -INFO - all links attributes are Captured
+2020-03-02 21:24:23,110 - SoftwareTestingTutorialsandAutomation -INFO - all links names are Captured
+2020-03-02 21:24:23,111 - SoftwareTestingTutorialsandAutomation -INFO - all links attributes are Captured
+2020-03-02 21:24:23,144 - SoftwareTestingTutorialsandAutomation -INFO - all links names are Captured
+2020-03-02 21:24:23,144 - SoftwareTestingTutorialsandAutomation -INFO - all links attributes are Captured
+2020-03-02 21:24:23,180 - SoftwareTestingTutorialsandAutomation -INFO - all links names are Captured
+2020-03-02 21:24:23,181 - SoftwareTestingTutorialsandAutomation -INFO - all links attributes are Captured
+2020-03-02 21:24:23,216 - SoftwareTestingTutorialsandAutomation -INFO - all links names are Captured
+2020-03-02 21:24:23,217 - SoftwareTestingTutorialsandAutomation -INFO - all links attributes are Captured
+2020-03-02 21:24:23,242 - SoftwareTestingTutorialsandAutomation -INFO - all links names are Captured
+2020-03-02 21:24:23,242 - SoftwareTestingTutorialsandAutomation -INFO - all links attributes are Captured
+2020-03-02 21:24:23,271 - SoftwareTestingTutorialsandAutomation -INFO - all links names are Captured
+2020-03-02 21:24:23,271 - SoftwareTestingTutorialsandAutomation -INFO - all links attributes are Captured
+2020-03-02 21:24:23,301 - SoftwareTestingTutorialsandAutomation -INFO - all links names are Captured
+2020-03-02 21:24:23,301 - SoftwareTestingTutorialsandAutomation -INFO - all links attributes are Captured
+2020-03-02 21:24:23,326 - SoftwareTestingTutorialsandAutomation -INFO - all links names are Captured
+2020-03-02 21:24:23,326 - SoftwareTestingTutorialsandAutomation -INFO - all links attributes are Captured
+2020-03-02 21:24:23,352 - SoftwareTestingTutorialsandAutomation -INFO - all links names are Captured
+2020-03-02 21:24:23,352 - SoftwareTestingTutorialsandAutomation -INFO - all links attributes are Captured
+2020-03-02 21:24:23,375 - SoftwareTestingTutorialsandAutomation -INFO - all links names are Captured
+2020-03-02 21:24:23,375 - SoftwareTestingTutorialsandAutomation -INFO - all links attributes are Captured
+2020-03-02 21:24:23,402 - SoftwareTestingTutorialsandAutomation -INFO - all links names are Captured
+2020-03-02 21:24:23,402 - SoftwareTestingTutorialsandAutomation -INFO - all links attributes are Captured
+2020-03-02 21:24:23,424 - SoftwareTestingTutorialsandAutomation -INFO - all links names are Captured
+2020-03-02 21:24:23,425 - SoftwareTestingTutorialsandAutomation -INFO - all links attributes are Captured
+2020-03-02 21:24:23,447 - SoftwareTestingTutorialsandAutomation -INFO - all links names are Captured
+2020-03-02 21:24:23,448 - SoftwareTestingTutorialsandAutomation -INFO - all links attributes are Captured
+2020-03-02 21:24:23,474 - SoftwareTestingTutorialsandAutomation -INFO - all links names are Captured
+2020-03-02 21:24:23,474 - SoftwareTestingTutorialsandAutomation -INFO - all links attributes are Captured
+2020-03-02 21:24:23,502 - SoftwareTestingTutorialsandAutomation -INFO - all links names are Captured
+2020-03-02 21:24:23,502 - SoftwareTestingTutorialsandAutomation -INFO - all links attributes are Captured
+2020-03-02 21:24:23,526 - SoftwareTestingTutorialsandAutomation -INFO - all links names are Captured
+2020-03-02 21:24:23,526 - SoftwareTestingTutorialsandAutomation -INFO - all links attributes are Captured
+2020-03-02 21:24:23,554 - SoftwareTestingTutorialsandAutomation -INFO - all links names are Captured
+2020-03-02 21:24:23,554 - SoftwareTestingTutorialsandAutomation -INFO - all links attributes are Captured
+2020-03-02 21:24:23,555 - SoftwareTestingTutorialsandAutomation -INFO - Required Action completed Successfully
+2020-03-02 21:24:23,558 - SoftwareTestingTutorialsandAutomation -INFO - testGetOrExtractAllLinksFromWebPage Test Passed
+2020-03-02 21:24:36,505 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is Launched
+2020-03-02 21:24:36,516 - SoftwareTestingTutorialsandAutomation -INFO - The title of the page is stored
+2020-03-02 21:24:36,522 - SoftwareTestingTutorialsandAutomation -INFO - The title length is stored
+2020-03-02 21:24:36,532 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 21:24:36,545 - SoftwareTestingTutorialsandAutomation -INFO - Stored the Domain name of the current url
+2020-03-02 21:24:40,815 - SoftwareTestingTutorialsandAutomation -INFO - testExtractingAllTextFieldsFromWebPage Test Passed
+2020-03-02 21:24:48,395 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is Launched
+2020-03-02 21:24:48,403 - SoftwareTestingTutorialsandAutomation -INFO - The title of the page is stored
+2020-03-02 21:24:48,413 - SoftwareTestingTutorialsandAutomation -INFO - The title length is stored
+2020-03-02 21:24:48,425 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 21:24:48,439 - SoftwareTestingTutorialsandAutomation -INFO - Stored the Domain name of the current url
+2020-03-02 21:24:48,853 - SoftwareTestingTutorialsandAutomation -INFO - testExtractOrReadTableData Test Passed
+2020-03-02 21:24:58,686 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is Launched
+2020-03-02 21:24:58,695 - SoftwareTestingTutorialsandAutomation -INFO - The title of the page is stored
+2020-03-02 21:24:58,705 - SoftwareTestingTutorialsandAutomation -INFO - The title length is stored
+2020-03-02 21:24:58,711 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 21:24:58,729 - SoftwareTestingTutorialsandAutomation -INFO - Stored the Domain name of the current url
+2020-03-02 21:24:59,000 - SoftwareTestingTutorialsandAutomation -INFO - testHandleDynamicWebTable Test Passed
+2020-03-02 21:25:06,740 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is Launched
+2020-03-02 21:25:06,757 - SoftwareTestingTutorialsandAutomation -INFO - The title of the page is stored
+2020-03-02 21:25:06,764 - SoftwareTestingTutorialsandAutomation -INFO - The title length is stored
+2020-03-02 21:25:06,771 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 21:25:06,816 - SoftwareTestingTutorialsandAutomation -INFO - Stored the Domain name of the current url
+2020-03-02 21:25:21,309 - SoftwareTestingTutorialsandAutomation -INFO - testDDTorParameterization Test Passed
+2020-03-02 21:25:32,745 - SoftwareTestingTutorialsandAutomation -INFO - Application URL is Launched
+2020-03-02 21:25:32,755 - SoftwareTestingTutorialsandAutomation -INFO - The title of the page is stored
+2020-03-02 21:25:32,761 - SoftwareTestingTutorialsandAutomation -INFO - The title length is stored
+2020-03-02 21:25:32,775 - SoftwareTestingTutorialsandAutomation -INFO - we got Current page URL
+2020-03-02 21:25:32,790 - SoftwareTestingTutorialsandAutomation -INFO - Stored the Domain name of the current url
+2020-03-02 21:25:49,246 - SoftwareTestingTutorialsandAutomation -INFO - testDragAndDropElementByPixelXY Test Passed
